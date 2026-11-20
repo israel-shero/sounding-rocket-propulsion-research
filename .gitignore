@@ -1,0 +1,4 @@
+pdfs/*.pdf
+metadata/download_results.csv
+__pycache__/
+.DS_Store
