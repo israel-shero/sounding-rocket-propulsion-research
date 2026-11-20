@@ -1,0 +1,226 @@
+[
+  {
+    "id": "RSP-001",
+    "category": "Sounding rockets",
+    "title": "Development of Main Propulsion System for Reusable Sounding Rocket",
+    "source_url": "https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-002",
+    "category": "Sounding rockets",
+    "title": "Design of a Solid Rocket Propulsion System",
+    "source_url": "https://zenodo.org/records/5710284/files/IJASAR-2470-4415-07-201.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-003",
+    "category": "Erosive burning",
+    "title": "Parameters Affecting the Erosive Burning of Solid Rocket Motor",
+    "source_url": "https://www.matec-conferences.org/articles/matecconf/pdf/2018/12/matecconf_icmme2018_03001.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-004",
+    "category": "Erosive burning",
+    "title": "Erosive Burning Modeling for Solid Propellant Rocket Motor",
+    "source_url": "http://iccee.journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-005",
+    "category": "Combustion instability",
+    "title": "Solid Rocket Motor Combustion Instability Modeling in COMSOL Multiphysics",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20150021412/downloads/20150021412.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-006",
+    "category": "Combustion instability",
+    "title": "Aluminum combustion instabilities: Dimensionless numbers controlling the instability in solid rocket motors",
+    "source_url": "https://www.sciencedirect.com/science/article/am/pii/S0010218021003060",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-007",
+    "category": "Combustion instability",
+    "title": "Pressure oscillations and instability of working processes in the combustion chambers of solid rocket motors",
+    "source_url": "https://eprints.kingston.ac.uk/id/eprint/36191/1/Volkov-K-36191-AAM.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-008",
+    "category": "Combustion instability",
+    "title": "The Nonlinear Combustion Instability Prediction of Solid Rocket Motors",
+    "source_url": "http://koreascience.or.kr:80/article/JAKO201610254116263.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-009",
+    "category": "Nozzle thermal protection",
+    "title": "Coupled Flow-Thermal Analysis of a Rocket Nozzle with Charring Ablative Thermal Protection System",
+    "source_url": "https://arxiv.org/pdf/2411.19792",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-010",
+    "category": "Nozzle thermal protection",
+    "title": "Two-Dimensional Modeling of Ablation and Pyrolysis with Application to Rocket Nozzles",
+    "source_url": "http://deepblue.lib.umich.edu/bitstream/2027.42/143121/1/1.A33656.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-011",
+    "category": "Nozzle thermal protection",
+    "title": "Ablation Study In Rocket Nozzles",
+    "source_url": "https://journals.library.torontomu.ca/index.php/ictea/article/download/1197/1204",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-012",
+    "category": "Nozzle thermal protection",
+    "title": "Testing ultra-high-temperature ceramics for thermal protection and rocket applications",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/17436753.2018.1509175?needAccess=true",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-013",
+    "category": "Nozzle thermal protection",
+    "title": "Thermal protection of rocket nozzle by using film cooling technology - effect of lateral curvature",
+    "source_url": "http://www.iieta.org/download/file/fid/4389",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-014",
+    "category": "Nozzle thermal protection",
+    "title": "Analysis of Thermal Protection System in Flex Seal of a Rocket Motor",
+    "source_url": "https://doi.org/10.35940/ijitee.a8117.119119",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-015",
+    "category": "Sounding rockets",
+    "title": "NASA Sounding Rockets User Handbook",
+    "source_url": "https://ntrs.nasa.gov/citations/20230006855",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-016",
+    "category": "Sounding rockets",
+    "title": "Sounding rockets",
+    "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19650006344.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-017",
+    "category": "Sounding rockets",
+    "title": "Handbook for space processing sounding rocket science payloads",
+    "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19750009792.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-018",
+    "category": "Instrumentation",
+    "title": "Sounding rocket instrumentation data Aerobee 350, Flight 17.05GT-CG",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19710016361/downloads/19710016361.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-019",
+    "category": "Instrumentation",
+    "title": "Introduction to the Special Issue on Sounding Rockets and Instrumentation",
+    "source_url": "https://arxiv.org/pdf/1602.02333",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-020",
+    "category": "Instrumentation",
+    "title": "The Tone Range/Telemetry Interferometer Tracking System for Support of Sounding Rocket Payloads",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19700009276/downloads/19700009276.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-021",
+    "category": "Sounding rockets",
+    "title": "Sounding rocket parameters versus flight reliability",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19690018398/downloads/19690018398.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-022",
+    "category": "Sounding rockets",
+    "title": "Sounding Rockets for Entry Research: SHEFEX Flight Test Program",
+    "source_url": "https://elib.dlr.de/87623/1/rocket_ballon_2013_shefex.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-023",
+    "category": "Internal ballistics",
+    "title": "Solid Rocket Motor Internal Ballistics Simulation Using Three-Dimensional Grain Burnback",
+    "source_url": "https://www.ideals.illinois.edu/items/14484/bitstreams/51394/data.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-024",
+    "category": "Internal ballistics",
+    "title": "Analysis of the main phenomena affecting solid rocket motors internal ballistics",
+    "source_url": "http://amsdottorato.unibo.it/9878/1/PhD_Thesis.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-025",
+    "category": "Internal ballistics",
+    "title": "Advanced Computer Science on Internal Ballistics of Solid Rocket Motors",
+    "source_url": "https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-026",
+    "category": "Hybrid propulsion",
+    "title": "A Review of Recent Developments in Hybrid Rocket Propulsion and Its Applications",
+    "source_url": "https://www.mdpi.com/2226-4310/11/9/739/pdf?version=1725951786",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-027",
+    "category": "Hybrid propulsion",
+    "title": "Time-resolved burning of solid fuels for hybrid rocket propulsion",
+    "source_url": "https://www.eucass-proceedings.eu/articles/eucass/pdf/2012/01/eucass2p405.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  },
+  {
+    "id": "RSP-028",
+    "category": "Hybrid propulsion",
+    "title": "Approaches to Low Fuel Regression Rate in Hybrid Rocket Engines",
+    "source_url": "https://downloads.hindawi.com/journals/ijae/2012/649753.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified"
+  }
+]
