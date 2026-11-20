@@ -1,24 +1,35 @@
 # Sounding Rocket & Propulsion Research
 
-Public research bibliography for sounding rockets, solid propulsion, internal ballistics, erosive burning, combustion instability, nozzle thermal protection, instrumentation, and hybrid propulsion.
+Public, version-controlled bibliography for sounding rockets, solid rocket motors, propulsion research, instrumentation, thermal protection, and internal ballistics.
 
 ## Current status
-- 28 candidate records in [metadata/papers.json](metadata/papers.json), assembled from scholarly discovery on 2026-11-20.
-- Source URLs and bibliographic details have **not** been independently verified in bulk.
-- PDFs have **not** been downloaded or uploaded to Sider.
-- CSV export is pending; JSON is the canonical index until it is committed.
+
+- **28 candidate publications** indexed from scholarly discovery on November 20, 2026.
+- **0 PDFs verified or uploaded**. URLs are discovery leads, not confirmed downloadable files.
+- Citation metadata and redistribution permissions need further verification.
 
 ## Contents
-- `metadata/papers.json`: indexed candidates with IDs RSP-001 through RSP-028
-- `scripts/download_pdfs.py`: download publicly accessible PDFs and log failures (requires `metadata/papers.csv`)
-- `notes/READING_TEMPLATE.md`: reading and analysis template
-- `SIDER_SETUP.md`: steps to ingest PDFs into Sider Wisebase
-- `.gitignore`: excludes PDFs and local download logs
 
-## Next steps
-1. Add `metadata/papers.csv` with matching IDs and fields.
-2. Verify citations, DOIs, licenses, and PDF availability.
-3. Run the downloader locally and import eligible PDFs into Sider.
-4. Expand categories and add reproducible paper-level notes.
+- [Paper catalog (CSV)](metadata/papers.csv) — spreadsheet-friendly, stable paper IDs.
+- [Paper catalog (JSON)](metadata/papers.json) — machine-readable bibliography.
+- [PDF downloader](scripts/download_pdfs.py) — tries publicly available links, checks PDF signatures, and logs failures.
+- [Reading notes template](notes/READING_TEMPLATE.md).
+- [Sider Wisebase integration](SIDER_SETUP.md).
 
-PDF URLs do not establish permission to redistribute their content.
+## Get started
+
+Clone this repository and run:
+
+```bash
+python scripts/download_pdfs.py
+```
+
+Downloaded PDFs are saved under `pdfs/` and excluded from Git. Inspect `metadata/download_results.csv` for results. The script does not bypass access restrictions.
+
+## Scope
+
+Sounding rocket systems and flight testing; telemetry and instrumentation; solid propulsion and erosive burning; combustion instability; grain burnback and internal ballistics; nozzle ablation; hybrid propulsion. Planned: liquid propulsion, experimental methods, recovery, flight dynamics, and validated computational tools.
+
+## Research integrity
+
+Do not equate a PDF URL with open access or a redistribution license. Validate title, authors, year, DOI, source, and license before citing or sharing. Keep GitHub as the bibliographic source of truth and use Sider Wisebase as a separately maintained full-text library.
