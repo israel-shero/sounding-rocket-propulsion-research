@@ -1,0 +1,44 @@
+name: Collect open-access research PDFs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Run every other day (manual runs always proceed)
+        id: cadence
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import datetime, os
+          today = datetime.datetime.now(datetime.timezone.utc).date()
+          anchor = datetime.date(2026, 11, 22)
+          proceed = os.environ["EVENT_NAME"] == "workflow_dispatch" or (today - anchor).days % 2 == 0
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"proceed={'true' if proceed else 'false'}\n")
+          print("Download run enabled:", proceed)
+          PY
+      - uses: actions/checkout@v4
+        if: steps.cadence.outputs.proceed == 'true'
+      - name: Retrieve publicly accessible candidate PDFs
+        if: steps.cadence.outputs.proceed == 'true'
+        run: python3 scripts/download_pdfs.py
+      - name: Upload PDF bundle and download log
+        if: steps.cadence.outputs.proceed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-pdfs-${{ github.run_number }}
+          path: |
+            pdfs/
+            metadata/download_results.csv
+          if-no-files-found: warn
+          retention-days: 30
