@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Download candidate PDFs without bypassing access controls."""
+"""Download candidate PDFs from the JSON bibliography without bypassing access controls."""
 import csv
+import json
 import pathlib
 import time
 import urllib.request
 
 root = pathlib.Path(__file__).resolve().parents[1]
 (root / "pdfs").mkdir(exist_ok=True)
-with (root / "metadata/papers.csv").open(newline="", encoding="utf-8") as f:
-    papers = list(csv.DictReader(f))
+papers = json.loads((root / "metadata/papers.json").read_text(encoding="utf-8"))
 with (root / "metadata/download_results.csv").open("w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["id", "status", "details"])
