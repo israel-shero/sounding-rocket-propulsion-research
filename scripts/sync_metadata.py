@@ -17,6 +17,7 @@ import io
 import json
 from pathlib import Path
 from urllib.parse import urlparse
+from audit_bibliography import audit, write_report
 
 ROOT = Path(__file__).resolve().parents[1]
 META = ROOT / "metadata"
@@ -67,6 +68,10 @@ def main():
         urls.add(source)
         if urlparse(source).scheme not in {"http", "https"}:
             raise ValueError(f"Unexpected URL scheme: {source}")
+    metrics, hard, review = audit(papers)
+    write_report(metrics, hard, review)
+    if hard:
+        raise ValueError("Bibliography structural audit failed: " + "; ".join(hard))
     output_csv(META / "papers.csv", PAPER_COLS, papers)
 
     events_path = META / "sider_import_events.jsonl"
