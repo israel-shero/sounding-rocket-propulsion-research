@@ -365,5 +365,65 @@
     "year": 1979,
     "citation_url": "https://ntrs.nasa.gov/citations/19800002041",
     "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-042",
+    "category": "Erosive burning",
+    "title": "Explicit expression to predict the erosive burning rate of solid propellants",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19860018787/downloads/19860018787.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1986,
+    "citation_url": "https://ntrs.nasa.gov/citations/19860018787",
+    "metadata_status": "title_verified_at_source",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+  },
+  {
+    "id": "RSP-043",
+    "category": "Erosive burning",
+    "title": "Erosive Augmentation of Solid Propellant Burning Rate: Motor Size Scaling Effect",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19920001907/downloads/19920001907.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1990,
+    "citation_url": "https://ntrs.nasa.gov/citations/19920001907",
+    "metadata_status": "title_verified_at_source",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+  },
+  {
+    "id": "RSP-044",
+    "category": "Erosive burning",
+    "title": "A One-Dimensional Global-Scaling Erosive Burning Model Informed by Blowing Wall Turbulence",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20140012534/downloads/20140012534.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2014,
+    "citation_url": "https://ntrs.nasa.gov/citations/20140012534",
+    "metadata_status": "title_verified_at_source",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+  },
+  {
+    "id": "RSP-045",
+    "category": "Erosive burning",
+    "title": "Development of Erosive Burning Models for CFD Predictions of Solid Rocket Motor Internal Environments",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20030066237/downloads/20030066237.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2003,
+    "citation_url": "https://ntrs.nasa.gov/citations/20030066237",
+    "metadata_status": "title_verified_at_source",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+  },
+  {
+    "id": "RSP-046",
+    "category": "Internal ballistics",
+    "title": "Complex Burn Region Module (CBRM) update",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19920011439/downloads/19920011439.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1991,
+    "citation_url": "https://ntrs.nasa.gov/citations/19920011439",
+    "metadata_status": "title_verified_at_source",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately."
   }
 ]
