@@ -221,7 +221,13 @@
     "title": "Sounding Rockets for Entry Research: SHEFEX Flight Test Program",
     "source_url": "https://elib.dlr.de/87623/1/rocket_ballon_2013_shefex.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2013,
+    "authors": "Weihs, Hendrik",
+    "document_type": "Conference Paper",
+    "citation_url": "https://elib.dlr.de/87623/",
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-023",
