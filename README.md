@@ -5,7 +5,8 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 ## Status
 
 - The bibliography contains **190 indexed records**, with **190 publication years**, **179 author fields**, and **24 recorded DOIs**. The original archives list public PDFs for **159 records**, while **31 are citation-only**. All 190 records now have an assigned document type and source-level PDF availability status; actual retrieval and document identity still require independent checks.
-- On November 20, 2026, Sider displayed **79 total file records**, up from 62 at the start of the latest expansion. All 17 new NASA PDF filenames were individually confirmed present after two targeted retry imports; 2 were opened in the full-text viewer, while the other 15 have file-list-level processing confirmation. Total file count is not a count of fully verified academic papers: older errors, an imported NATO 404 page, and records still awaiting content validation remain. The import observation log is historical, including failures, so its row count does not have to match Sider's current file count.
+- On November 21, 2026, Sider displayed **86 file records**, including **six newly processed target PDFs** and one HTML authorization-error page imported instead of a DLR PDF. The latter is not valid research material. Three target PDFs remain missing. Historical Sider import observations may include files no longer visible and do not necessarily match the live file count.
+- A [full-library PDF audit](notes/fulltext_validation_2026-11-21.md) tested **all 159 source-listed PDF links**: **140 valid PDF structures**, **19 classified exceptions**, plus **31 citation-only records**. This verifies file structure and checksums, **not** first-page title identity, complete readability, or scientific correctness.
 - Open the [Sider research Wisebase](https://sider.ai/wisebase/6b00ca26d3e350873fe60644).
 
 ## Metadata and automation
@@ -14,9 +15,12 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 - [Bibliography (CSV)](metadata/papers.csv) — auto-generated from JSON, including authors, publication date, paper type, DOI, citation link, research utility, and PDF availability when available.
 - [Sider import observations (JSONL)](metadata/sider_import_events.jsonl) — append-only evidence log (one JSON object per line, latest observation for each filename takes precedence).
 - [Sider import inventory (CSV)](metadata/sider_imports.csv) — auto-generated from the observation log.
-- [Download results (CSV)](metadata/download_results.csv) — updated by the scheduled PDF download workflow when it runs.
+- [Complete source-PDF validation results (CSV)](metadata/fulltext_validation.csv) and [summary (JSON)](metadata/fulltext_summary.json) — 190-record reconciled test ledger, including checksums, page counts and exact failure reasons.
+- [Download results (CSV)](metadata/download_results.csv) — updated by the scheduled rotating PDF downloader when it runs; separate from the full-library audit.
 - [PDF retrieval script](scripts/download_pdfs.py) — skips citation-only records and verifies downloaded PDF format/page count, recording a SHA-256 digest and HTTP status. PDFs remain ephemeral workflow artifacts, not tracked files.
 - [Metadata sync script](scripts/sync_metadata.py) — validates input records and deterministically refreshes CSV outputs.
+- [Full-library PDF audit GitHub Action](.github/workflows/fulltext-audit.yml) — six shards, complete source-ID reconciliation, and commits only audit metadata (no PDF bytes).
+- [Full-text audit and Sider reconciliation report](notes/fulltext_validation_2026-11-21.md) — status breakdown, 19 problem sources and Sider import results.
 - [Metadata sync GitHub Action](.github/workflows/sync-metadata.yml) — runs on source-data pushes, daily, and manually; commits generated CSV changes when necessary.
 - [PDF collection GitHub Action](.github/workflows/collect-pdfs.yml) — runs every other day and on demand; checks **rotating batches of up to 30 source PDFs per run**, saves temporary validated PDF artifacts, and commits results for that run only.
 - [Cleanup audit](notes/cleanup_audit_2026-11-20.md) — corrected links, metadata, downloader safeguards, unresolved sources, and follow-up priorities.
@@ -37,6 +41,7 @@ python3 -m unittest discover -s tests -p 'test_*.py'
 python3 scripts/sync_metadata.py
 python3 -m pip install 'pypdf>=5,<8'
 python3 scripts/download_pdfs.py
+# Full-library audit: use the GitHub Actions workflow (six independent shards).
 ```
 
 The PDF retrieval script skips bibliography-only records whose sources do not list a public PDF, and writes local PDFs to `pdfs/`, excluded from git. The metadata sync script uses the Python standard library. No paywall, authentication, or publisher access controls are bypassed.
