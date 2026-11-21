@@ -10,11 +10,11 @@ Generated deterministically from the current bibliography. This report checks **
 | DOIs present | 21 |
 | Citation pages present | 190 |
 | Explicit source-listed PDFs | 90 |
-| Explicit no-PDF sources | 30 |
-| PDF availability unknown | 70 |
+| Explicit no-PDF sources | 31 |
+| PDF availability unknown | 69 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
-| Review flags | 71 |
+| Review flags | 70 |
 
 ## Blocking structural issues
 
@@ -34,7 +34,6 @@ None.
 - RSP-038: source PDF availability not yet verified
 - RSP-039: source PDF availability not yet verified
 - RSP-040: source PDF availability not yet verified
-- RSP-041: source PDF availability not yet verified
 - RSP-042: source PDF availability not yet verified
 - RSP-043: source PDF availability not yet verified
 - RSP-044: source PDF availability not yet verified
