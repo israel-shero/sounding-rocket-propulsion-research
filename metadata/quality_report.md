@@ -9,12 +9,12 @@ Generated deterministically from the current bibliography. This report checks **
 | Author fields present | 158 |
 | DOIs present | 21 |
 | Citation pages present | 190 |
-| Explicit source-listed PDFs | 138 |
+| Explicit source-listed PDFs | 158 |
 | Explicit no-PDF sources | 31 |
-| PDF availability unknown | 21 |
+| PDF availability unknown | 1 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
-| Review flags | 22 |
+| Review flags | 2 |
 
 ## Blocking structural issues
 
@@ -22,27 +22,7 @@ None.
 
 ## Items needing further source verification
 
-- RSP-029: source PDF availability not yet verified
-- RSP-030: source PDF availability not yet verified
-- RSP-031: source PDF availability not yet verified
-- RSP-032: source PDF availability not yet verified
-- RSP-033: source PDF availability not yet verified
 - RSP-047: source PDF availability not yet verified
-- RSP-065: source PDF availability not yet verified
-- RSP-097: source PDF availability not yet verified
-- RSP-098: source PDF availability not yet verified
-- RSP-099: source PDF availability not yet verified
-- RSP-100: source PDF availability not yet verified
-- RSP-101: source PDF availability not yet verified
-- RSP-102: source PDF availability not yet verified
-- RSP-103: source PDF availability not yet verified
-- RSP-104: source PDF availability not yet verified
-- RSP-105: source PDF availability not yet verified
-- RSP-106: source PDF availability not yet verified
-- RSP-107: source PDF availability not yet verified
-- RSP-108: source PDF availability not yet verified
-- RSP-109: source PDF availability not yet verified
-- RSP-110: source PDF availability not yet verified
 - RSP-164: publication year not yet verified
 
 ## Reading status vocabulary
