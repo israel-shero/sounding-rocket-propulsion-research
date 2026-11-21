@@ -48,11 +48,17 @@
     "id": "RSP-004",
     "category": "Erosive burning",
     "title": "Erosive Burning Modeling for Solid Propellant Rocket Motor",
-    "source_url": "http://iccee.journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf",
+    "source_url": "https://journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf",
     "pdf_status": "not downloaded",
     "access_status": "unverified",
-    "metadata_status": "needs_source_verification",
-    "notes": "No verified publisher page-to-PDF metadata match in this audit; source and title need further checking."
+    "metadata_status": "verified_via_original_conference_proceedings",
+    "notes": "Official conference proceedings PDF identified via publicly indexed Egyptian Knowledge Bank archive; byte-level validation pending.",
+    "year": 2016,
+    "authors": "Makled, A. H.",
+    "doi": "10.21608/iccee.2016.35124",
+    "citation_url": "https://iccee.journals.ekb.eg/article_35124.html",
+    "document_type": "Conference Paper",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-005",
@@ -90,8 +96,14 @@
     "source_url": "https://eprints.kingston.ac.uk/id/eprint/36191/1/Volkov-K-36191-AAM.pdf",
     "pdf_status": "not downloaded",
     "access_status": "unverified",
-    "metadata_status": "needs_source_verification",
-    "notes": "No verified publisher page-to-PDF metadata match in this audit; source and title need further checking."
+    "metadata_status": "verified_on_publisher_and_institutional_manuscript",
+    "notes": "Kingston University hosts an accepted manuscript; publisher version in Acta Astronautica 135 (2017) 161–171. PDF retrieval still untested.",
+    "year": 2017,
+    "authors": "Emelyanov, V. N.; Teterina, I. V.; Volkov, K. N.; Garkushev, A. U.",
+    "doi": "10.1016/j.actaastro.2016.09.029",
+    "citation_url": "https://www.sciencedirect.com/science/article/abs/pii/S0094576516308153",
+    "document_type": "Journal Article",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-008",
