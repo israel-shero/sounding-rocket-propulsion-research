@@ -683,10 +683,14 @@
     "title": "Development, modeling and testing of thermal protection systems in small, slow-burning solid rocket motors",
     "source_url": "https://dspace.mit.edu/bitstreams/fe583b0d-eeae-4bcc-81a0-185e6a8e7c6e/download",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "MIT repository lists 21.13 MB PDF; direct automated retrieval received HTTP 429 and has not been independently validated",
     "year": 2018,
     "citation_url": "https://dspace.mit.edu/entities/publication/3532ac0e-4b63-4ec7-9cc3-f550f7ff0444",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_MIT_repository_record",
+    "pdf_available_at_source": true,
+    "authors": "Spirnak, Jonathan R.",
+    "document_type": "Thesis",
+    "notes": "MIT lists the full PDF with MD5 425e29e142d2908606ae856fef84c708; user permitted personal research reading, not unrestricted public redistribution. HTTP 429 during direct inspection is not proof the document is absent."
   },
   {
     "id": "RSP-048",
