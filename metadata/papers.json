@@ -480,10 +480,14 @@
     "title": "Erosive Burning Study Utilizing Ultrasonic Measurement Techniques",
     "source_url": "https://ntrs.nasa.gov/api/citations/20030066165/downloads/20030066165.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2003,
     "citation_url": "https://ntrs.nasa.gov/citations/20030066165",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2003-07-23",
+    "authors": "Furfaro, James A.",
+    "document_type": "Preprint (Draft being sent to journal)"
   },
   {
     "id": "RSP-035",
@@ -491,10 +495,14 @@
     "title": "Fully Coupled Aero-Thermochemical-Elastic Simulations of an Eroding Graphite Nozzle",
     "source_url": "https://ntrs.nasa.gov/api/citations/20170005288/downloads/20170005288.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2017,
     "citation_url": "https://ntrs.nasa.gov/citations/20170005288",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2017-05-22",
+    "authors": "Blades, E. L.; Reveles, N. D.; Nucci, M.; Maclean, M.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-036",
@@ -502,10 +510,14 @@
     "title": "Coupled CFD-Thermal Analysis of Erosion Patterns Resulting from Nozzle Wedgeouts on the SRTMV-N2",
     "source_url": "https://ntrs.nasa.gov/api/citations/20140010445/downloads/20140010445.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2014,
     "citation_url": "https://ntrs.nasa.gov/citations/20140010445",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2014-05-19",
+    "authors": "Ables, Catherine; Davis, Philip",
+    "document_type": "Abstract"
   },
   {
     "id": "RSP-037",
@@ -513,10 +525,14 @@
     "title": "ASRM nozzle thermal analysis",
     "source_url": "https://ntrs.nasa.gov/api/citations/19940012804/downloads/19940012804.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1993,
     "citation_url": "https://ntrs.nasa.gov/citations/19940012804",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "1993-11-01",
+    "authors": "Strobel, Forrest; King, Belinda",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-038",
@@ -524,10 +540,14 @@
     "title": "High performance Solid Rocket Motor (SRM) submerged nozzle/combustion cavity flowfield assessment",
     "source_url": "https://ntrs.nasa.gov/api/citations/19880009238/downloads/19880009238.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1987,
     "citation_url": "https://ntrs.nasa.gov/citations/19880009238",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "1987-12-22",
+    "authors": "Freeman, J. A.; Chan, J. S.; Murph, J. E.; Xiques, K. E.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-039",
@@ -535,10 +555,14 @@
     "title": "Flight motor set 360L001 (STS-26R). Volume 5: Nozzle component",
     "source_url": "https://ntrs.nasa.gov/api/citations/19900004272/downloads/19900004272.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1989,
     "citation_url": "https://ntrs.nasa.gov/citations/19900004272",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "1989-07-01",
+    "authors": "George, Russell J.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-040",
@@ -546,10 +570,14 @@
     "title": "Pocketing mechanics of SRM nozzle liner",
     "source_url": "https://ntrs.nasa.gov/api/citations/19860014503/downloads/19860014503.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1986,
     "citation_url": "https://ntrs.nasa.gov/citations/19860014503",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "1986-01-01",
+    "authors": "Verderaime, V. S.",
+    "document_type": "Technical Publication (TP)"
   },
   {
     "id": "RSP-041",
@@ -570,11 +598,15 @@
     "title": "Explicit expression to predict the erosive burning rate of solid propellants",
     "source_url": "https://ntrs.nasa.gov/api/citations/19860018787/downloads/19860018787.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1986,
     "citation_url": "https://ntrs.nasa.gov/citations/19860018787",
-    "metadata_status": "title_verified_at_source",
-    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately.",
+    "pdf_available_at_source": true,
+    "publication_date": "1986-07-01",
+    "authors": "Wang, S.",
+    "document_type": "Reprint (Version printed in journal)"
   },
   {
     "id": "RSP-043",
@@ -582,11 +614,15 @@
     "title": "Erosive Augmentation of Solid Propellant Burning Rate: Motor Size Scaling Effect",
     "source_url": "https://ntrs.nasa.gov/api/citations/19920001907/downloads/19920001907.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1990,
     "citation_url": "https://ntrs.nasa.gov/citations/19920001907",
-    "metadata_status": "title_verified_at_source",
-    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately.",
+    "pdf_available_at_source": true,
+    "publication_date": "1990-11-01",
+    "authors": "Strand, L. D.; Cohen, Norman S.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-044",
@@ -594,11 +630,15 @@
     "title": "A One-Dimensional Global-Scaling Erosive Burning Model Informed by Blowing Wall Turbulence",
     "source_url": "https://ntrs.nasa.gov/api/citations/20140012534/downloads/20140012534.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2014,
     "citation_url": "https://ntrs.nasa.gov/citations/20140012534",
-    "metadata_status": "title_verified_at_source",
-    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately.",
+    "pdf_available_at_source": true,
+    "publication_date": "2014-07-28",
+    "authors": "Kibbey, Timothy P.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-045",
@@ -606,11 +646,15 @@
     "title": "Development of Erosive Burning Models for CFD Predictions of Solid Rocket Motor Internal Environments",
     "source_url": "https://ntrs.nasa.gov/api/citations/20030066237/downloads/20030066237.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2003,
     "citation_url": "https://ntrs.nasa.gov/citations/20030066237",
-    "metadata_status": "title_verified_at_source",
-    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately.",
+    "pdf_available_at_source": true,
+    "publication_date": "2003-01-01",
+    "authors": "Wang, Qun-Zhen",
+    "document_type": "Preprint (Draft being sent to journal)"
   },
   {
     "id": "RSP-046",
@@ -618,11 +662,15 @@
     "title": "Complex Burn Region Module (CBRM) update",
     "source_url": "https://ntrs.nasa.gov/api/citations/19920011439/downloads/19920011439.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1991,
     "citation_url": "https://ntrs.nasa.gov/citations/19920011439",
-    "metadata_status": "title_verified_at_source",
-    "notes": "Already observed in Sider Wisebase; import status tracked separately."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "Already observed in Sider Wisebase; import status tracked separately.",
+    "pdf_available_at_source": true,
+    "publication_date": "1991-02-01",
+    "authors": "Adams, Carl L.; Jenkins, Billy",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-047",
@@ -641,10 +689,14 @@
     "title": "Characterization of Internal Insulation Thermal Performance",
     "source_url": "https://ntrs.nasa.gov/api/citations/20240009657/downloads/20240009657.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2024,
     "citation_url": "https://ntrs.nasa.gov/citations/20240009657",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2024-07-01",
+    "authors": "Jonathan E. Jones; Heath T. Martin; James M. Womack; Andrew T. Hiatt",
+    "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-049",
@@ -652,10 +704,14 @@
     "title": "Test and Analysis of Solid Rocket Motor Nozzle Ablative Materials",
     "source_url": "https://ntrs.nasa.gov/api/citations/20170004465/downloads/20170004465.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2017,
     "citation_url": "https://ntrs.nasa.gov/citations/20170004465",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2017-04-04",
+    "authors": "Clayton, J. Louie",
+    "document_type": "Abstract"
   },
   {
     "id": "RSP-050",
@@ -663,10 +719,14 @@
     "title": "Modeling the Gas Dynamics Environment in a Subscale Solid Rocket Test Motor",
     "source_url": "https://ntrs.nasa.gov/api/citations/20020030027/downloads/20020030027.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2001,
     "citation_url": "https://ntrs.nasa.gov/citations/20020030027",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "publication_date": "2001-01-01",
+    "authors": "Eaton, Andrew M.; Ewing, Mark E.; Bailey, Kirk M.; McCool, Alex",
+    "document_type": "Other"
   },
   {
     "id": "RSP-051",
@@ -674,10 +734,14 @@
     "title": "Identification and Study of Validation Level Test Cases for Computational Modeling of Non-Charring Ablators",
     "source_url": "https://ntrs.nasa.gov/api/citations/20220014385/downloads/AW2022_Identification_and_Study_of_Validation_Level_Test_Cases.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2022,
     "citation_url": "https://ntrs.nasa.gov/citations/20220014385",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "pdf_available_at_source": true,
+    "authors": "Aleksander Zibitsker; Eric Stern; Grant Palmer; Alexandre Martin",
+    "document_type": "Abstract",
+    "notes": "NASA NTRS marks this record abstract-only; a linked PDF does not establish full-paper coverage."
   },
   {
     "id": "RSP-052",
@@ -824,10 +888,13 @@
     "title": "Residual Thrust in a Solid Rocket Motor: A Model Applied to the Mars Ascent Vehicle",
     "source_url": "https://ntrs.nasa.gov/api/citations/20240000321/downloads/KibbeyResidThrust%20AIAA-2024_0212.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "citation_url": "https://ntrs.nasa.gov/citations/20240000321",
-    "metadata_status": "title_verified_at_source",
-    "year": 2024
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 2024,
+    "pdf_available_at_source": true,
+    "authors": "Timothy P Kibbey",
+    "document_type": "Presentation"
   },
   {
     "id": "RSP-062",
@@ -891,11 +958,15 @@
     "title": "Standardization of the carbon-phenolic materials and processes. Vol. 1: Experimental studies",
     "source_url": "https://ntrs.nasa.gov/api/citations/19890000756/downloads/19890000756.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1988,
     "citation_url": "https://ntrs.nasa.gov/citations/19890000756",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1988-08-31",
+    "authors": "Hall, William B.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-067",
@@ -903,11 +974,15 @@
     "title": "Embedded Sensors for Measuring Surface Regression",
     "source_url": "https://ntrs.nasa.gov/api/citations/20110012908/downloads/20110012908.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2006,
     "citation_url": "https://ntrs.nasa.gov/citations/20110012908",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2006-07-01",
+    "authors": "Gramer, Daniel J.; Taagen, Thomas J.; Vermaak, Anton G.",
+    "document_type": "Other - NASA Tech Brief"
   },
   {
     "id": "RSP-068",
@@ -915,11 +990,15 @@
     "title": "Determination of solid-propellant transient regression rates using a microwave Doppler shift technique",
     "source_url": "https://ntrs.nasa.gov/api/citations/19720026082/downloads/19720026082.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1972,
     "citation_url": "https://ntrs.nasa.gov/citations/19720026082",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1972-10-15",
+    "authors": "Strand, L. D.; Schultz, A. L.; Reedy, G. K.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-069",
@@ -927,11 +1006,15 @@
     "title": "Measuring the Internal Environment of Solid Rocket Motors During Ignition",
     "source_url": "https://ntrs.nasa.gov/api/citations/20030062159/downloads/20030062159.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2003,
     "citation_url": "https://ntrs.nasa.gov/citations/20030062159",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2003-02-01",
+    "authors": "Weisenberg, Brent; Smith, Doug; Speas, Kyle; Corliss, Adam",
+    "document_type": "Preprint (Draft being sent to journal)"
   },
   {
     "id": "RSP-070",
@@ -939,11 +1022,15 @@
     "title": "Real-Time Measurements of Aft Dome Insulation Erosion on Space Shuttle Reusable Solid Rocket Motor",
     "source_url": "https://ntrs.nasa.gov/api/citations/20040085892/downloads/20040085892.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2004,
     "citation_url": "https://ntrs.nasa.gov/citations/20040085892",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2004-01-01",
+    "authors": "McWhorter, Bruce; Ewing, Mark; Albrechtsen, Kevin; Noble, Todd; Longaker, Matt",
+    "document_type": "Preprint (Draft being sent to journal)"
   },
   {
     "id": "RSP-071",
@@ -951,11 +1038,15 @@
     "title": "Ignition transient analysis of solid rocket motor (1991)",
     "source_url": "https://ntrs.nasa.gov/api/citations/19920006646/downloads/19920006646.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1991,
     "citation_url": "https://ntrs.nasa.gov/citations/19920006646",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1991-10-01",
+    "authors": "Han, Samuel S.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-072",
@@ -963,11 +1054,15 @@
     "title": "Vapor Grown Carbon Fiber/Phenolic Matrix Composites for Rocket Nozzles and Heat Shields",
     "source_url": "https://ntrs.nasa.gov/api/citations/20010067308/downloads/20010067308.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2001,
     "citation_url": "https://ntrs.nasa.gov/citations/20010067308",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2001-02-01",
+    "authors": "Patton, R. D.; Pittman, C. U., Jr.; Wang, L.; Day, A.; Hill, J. R.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-073",
@@ -975,11 +1070,15 @@
     "title": "Solid motor diagnostic instrumentation",
     "source_url": "https://ntrs.nasa.gov/api/citations/19740007346/downloads/19740007346.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1973,
     "citation_url": "https://ntrs.nasa.gov/citations/19740007346",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1973-12-01",
+    "authors": "Nakamura, Y.; Arens, W. E.; Wuest, W. S.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-074",
@@ -987,11 +1086,15 @@
     "title": "Space Shuttle Five-Segment Booster (Short Course)",
     "source_url": "https://ntrs.nasa.gov/api/citations/20020069015/downloads/20020069015.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2002,
     "citation_url": "https://ntrs.nasa.gov/citations/20020069015",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2002-01-01",
+    "authors": "Graves, Stanley R.; Rudolphi, Michael",
+    "document_type": "Preprint (Draft being sent to journal)"
   },
   {
     "id": "RSP-075",
@@ -999,11 +1102,15 @@
     "title": "Development of a solid propellant viscoelastic dynamic model",
     "source_url": "https://ntrs.nasa.gov/api/citations/19760018345/downloads/19760018345.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1976,
     "citation_url": "https://ntrs.nasa.gov/citations/19760018345",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1976-04-01",
+    "authors": "Hufferd, W. L.; Fitzgerald, J. E.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-076",
@@ -1011,11 +1118,15 @@
     "title": "Test data from small solid propellant rocket motor plume measurements (FA-21)",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770021268/downloads/19770021268.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1976,
     "citation_url": "https://ntrs.nasa.gov/citations/19770021268",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1976-06-01",
+    "authors": "Hair, L. M.; Somers, R. E.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-077",
@@ -1023,11 +1134,15 @@
     "title": "Digital Image Correlation Techniques Applied to Large Scale Rocket Engine Testing",
     "source_url": "https://ntrs.nasa.gov/api/citations/20160009712/downloads/20160009712.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2016,
     "citation_url": "https://ntrs.nasa.gov/citations/20160009712",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "2016-07-25",
+    "authors": "Gradl, Paul R.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-078",
@@ -1035,11 +1150,15 @@
     "title": "Computer codes for thermal analysis of a solid rocket motor nozzle",
     "source_url": "https://ntrs.nasa.gov/api/citations/19890012362/downloads/19890012362.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1988,
     "citation_url": "https://ntrs.nasa.gov/citations/19890012362",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1988-12-01",
+    "authors": "Chauhan, Rajinder Singh",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-079",
@@ -1047,11 +1166,15 @@
     "title": "Ignition transient analysis of solid rocket motor (1990)",
     "source_url": "https://ntrs.nasa.gov/api/citations/19910009672/downloads/19910009672.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1990,
     "citation_url": "https://ntrs.nasa.gov/citations/19910009672",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1990-10-01",
+    "authors": "Han, Samuel S.",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-080",
@@ -1059,11 +1182,15 @@
     "title": "Investigation of the starting transients of high performance solid-propellant motors",
     "source_url": "https://ntrs.nasa.gov/api/citations/19750003988/downloads/19750003988.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1974,
     "citation_url": "https://ntrs.nasa.gov/citations/19750003988",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1974-10-01",
+    "authors": "Summerfield, M.; Caveny, L. H.",
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-081",
@@ -1071,11 +1198,15 @@
     "title": "ASRM Multi-Port Igniter Flow Field Analysis",
     "source_url": "https://ntrs.nasa.gov/api/citations/19950017219/downloads/19950017219.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1993,
     "citation_url": "https://ntrs.nasa.gov/citations/19950017219",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": ""
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "",
+    "pdf_available_at_source": true,
+    "publication_date": "1993-07-01",
+    "authors": "Kania, Lee; Dumas, Catherine; Doran, Denise",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-082",
@@ -1083,11 +1214,15 @@
     "title": "Arc Jet Test and Analysis of Asbestos Free Solid Rocket Motor Nozzle Dome Ablative Materials (abstract)",
     "source_url": "https://ntrs.nasa.gov/api/citations/20170005378/downloads/20170005378.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS public PDF listed; retrieval unverified",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2017,
     "citation_url": "https://ntrs.nasa.gov/citations/20170005378",
-    "metadata_status": "NASA NTRS title and available download verified",
-    "notes": "NTRS classifies this as an abstract; may not be full conference paper."
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "notes": "NTRS classifies this as an abstract; may not be full conference paper.",
+    "pdf_available_at_source": true,
+    "publication_date": "2017-05-22",
+    "authors": "Clayton, J. Louie",
+    "document_type": "Abstract"
   },
   {
     "id": "RSP-083",
@@ -1095,12 +1230,14 @@
     "title": "Solid rocket booster performance evaluation model. Volume 1: Engineering description",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770020237/downloads/19770020237.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1974,
     "citation_url": "https://ntrs.nasa.gov/citations/19770020237",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Engineering modules, assumptions, and scaling methods underlying the SRB-II performance model"
+    "research_utility": "Engineering modules, assumptions, and scaling methods underlying the SRB-II performance model",
+    "pdf_available_at_source": true,
+    "publication_date": "1974-09-07"
   },
   {
     "id": "RSP-084",
@@ -1108,12 +1245,14 @@
     "title": "Solid rocket booster performance evaluation model. Volume 2: Users manual",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770020238/downloads/19770020238.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1974,
     "citation_url": "https://ntrs.nasa.gov/citations/19770020238",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Input variables, options, and output formats of the SRB-II model"
+    "research_utility": "Input variables, options, and output formats of the SRB-II model",
+    "pdf_available_at_source": true,
+    "publication_date": "1974-09-07"
   },
   {
     "id": "RSP-085",
@@ -1121,12 +1260,14 @@
     "title": "Solid rocket booster performance evaluation model. Volume 3: Sample case",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770020239/downloads/19770020239.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1974,
     "citation_url": "https://ntrs.nasa.gov/citations/19770020239",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Worked motor-analysis example with full burn simulation"
+    "research_utility": "Worked motor-analysis example with full burn simulation",
+    "pdf_available_at_source": true,
+    "publication_date": "1974-09-07"
   },
   {
     "id": "RSP-086",
@@ -1134,12 +1275,14 @@
     "title": "Solid rocket booster performance evaluation model. Volume 4: Program listing",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770020240/downloads/19770020240.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1974,
     "citation_url": "https://ntrs.nasa.gov/citations/19770020240",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Historical computational implementation and routine listing"
+    "research_utility": "Historical computational implementation and routine listing",
+    "pdf_available_at_source": true,
+    "publication_date": "1974-09-07"
   },
   {
     "id": "RSP-087",
@@ -1147,12 +1290,15 @@
     "title": "Internal ballistics model update for ASRM dome",
     "source_url": "https://ntrs.nasa.gov/api/citations/19920011970/downloads/19920011970.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1991,
     "citation_url": "https://ntrs.nasa.gov/citations/19920011970",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Head-dome grain burning area and volume calculations for CBRM-A"
+    "research_utility": "Head-dome grain burning area and volume calculations for CBRM-A",
+    "pdf_available_at_source": true,
+    "publication_date": "1991-02-20",
+    "authors": "Bowden, Mark H.; Jenkins, Billy Z."
   },
   {
     "id": "RSP-088",
@@ -1160,12 +1306,15 @@
     "title": "Verification of RSRM Nozzle Thermal Models With ETM-3 Aft Exit Cone In-depth Temperature Measurements",
     "source_url": "https://ntrs.nasa.gov/api/citations/20040085893/downloads/20040085893.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2004,
     "citation_url": "https://ntrs.nasa.gov/citations/20040085893",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Preprint",
-    "research_utility": "In-depth thermocouple data for validating nozzle thermal models"
+    "research_utility": "In-depth thermocouple data for validating nozzle thermal models",
+    "pdf_available_at_source": true,
+    "publication_date": "2004-01-01",
+    "authors": "Maw, Joel F.; Lui, Robbie C.; Totman, Peter D."
   },
   {
     "id": "RSP-089",
@@ -1173,12 +1322,15 @@
     "title": "Thermostructural responses of carbon phenolics in a restrained thermal growth test",
     "source_url": "https://ntrs.nasa.gov/api/citations/19930008144/downloads/19930008144.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1992,
     "citation_url": "https://ntrs.nasa.gov/citations/19930008144",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Technical Report",
-    "research_utility": "Carbon-phenolic damage mechanisms and thermostructural response"
+    "research_utility": "Carbon-phenolic damage mechanisms and thermostructural response",
+    "pdf_available_at_source": true,
+    "publication_date": "1992-12-01",
+    "authors": "Wang, C. Jeff"
   },
   {
     "id": "RSP-090",
@@ -1186,12 +1338,15 @@
     "title": "Micromechanical simulation of damage progression in carbon phenolic composites",
     "source_url": "https://ntrs.nasa.gov/api/citations/19940019973/downloads/19940019973.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1993,
     "citation_url": "https://ntrs.nasa.gov/citations/19940019973",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Conference Paper",
-    "research_utility": "Microdamage model covering ply lift, wedge-out and pocketing"
+    "research_utility": "Microdamage model covering ply lift, wedge-out and pocketing",
+    "pdf_available_at_source": true,
+    "publication_date": "1993-11-01",
+    "authors": "Slattery, Kerry T."
   },
   {
     "id": "RSP-091",
@@ -1199,12 +1354,15 @@
     "title": "ASRM combustion instability studies",
     "source_url": "https://ntrs.nasa.gov/api/citations/19960012502/downloads/19960012502.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1992,
     "citation_url": "https://ntrs.nasa.gov/citations/19960012502",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Conference Paper",
-    "research_utility": "Experimental combustion-response characterization for ASRM/RSRM propellants"
+    "research_utility": "Experimental combustion-response characterization for ASRM/RSRM propellants",
+    "pdf_available_at_source": true,
+    "publication_date": "1992-02-01",
+    "authors": "Strand, L. D."
   },
   {
     "id": "RSP-092",
@@ -1212,12 +1370,15 @@
     "title": "Characterization of Space Shuttle Reusable Rocket Motor Static Test Stand Thrust Measurements",
     "source_url": "https://ntrs.nasa.gov/api/citations/20030112368/downloads/20030112368.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2003,
     "citation_url": "https://ntrs.nasa.gov/citations/20030112368",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Preprint",
-    "research_utility": "Thrust-to-pressure calibration and static-test uncertainty"
+    "research_utility": "Thrust-to-pressure calibration and static-test uncertainty",
+    "pdf_available_at_source": true,
+    "publication_date": "2003-01-06",
+    "authors": "Mart L. Cook; Laurent Gruet; Stephen F. Cash"
   },
   {
     "id": "RSP-093",
@@ -1225,12 +1386,15 @@
     "title": "Space Shuttle Solid Rocket Motor Plume Pressure and Heat Rate Measurements",
     "source_url": "https://ntrs.nasa.gov/api/citations/20120012051/downloads/20120012051.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2012,
     "citation_url": "https://ntrs.nasa.gov/citations/20120012051",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Conference Paper",
-    "research_utility": "Calorimeter and pressure data for SRB plume environments"
+    "research_utility": "Calorimeter and pressure data for SRB plume environments",
+    "pdf_available_at_source": true,
+    "publication_date": "2012-06-25",
+    "authors": "vonEckroth, Wulf; Struchen, Leah; Trovillion, Tom; Perez, Ravael; Nereolich, Shaun; Parlier, Chris"
   },
   {
     "id": "RSP-094",
@@ -1238,12 +1402,15 @@
     "title": "Physics-Based Methods of Failure Analysis and Diagnostics in Human Space Flight",
     "source_url": "https://ntrs.nasa.gov/api/citations/20110008168/downloads/20110008168.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 2010,
     "citation_url": "https://ntrs.nasa.gov/citations/20110008168",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Preprint",
-    "research_utility": "Dynamical inference and one-dimensional SRM nozzle-fault model"
+    "research_utility": "Dynamical inference and one-dimensional SRM nozzle-fault model",
+    "pdf_available_at_source": true,
+    "publication_date": "2010-01-01",
+    "authors": "Smelyanskiy, Vadim N.; Luchinsky, Dmitry Georgievich; Hafiychuk, Vasyl Nmn; Osipov, Viatcheslav V.; Patterson-Hine, F. Ann"
   },
   {
     "id": "RSP-095",
@@ -1251,12 +1418,15 @@
     "title": "Studies of ablative material performance for solid rocket nozzle applications",
     "source_url": "https://ntrs.nasa.gov/api/citations/19680022465/downloads/19680022465.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1968,
     "citation_url": "https://ntrs.nasa.gov/citations/19680022465",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Aerotherm thermal-response modeling and silica-phenolic nozzle tests"
+    "research_utility": "Aerotherm thermal-response modeling and silica-phenolic nozzle tests",
+    "pdf_available_at_source": true,
+    "publication_date": "1968-03-01",
+    "authors": "Dahm, T. J.; Reese, J. J., Jr.; Rodriguez, D. A.; Schaefer, J. W.; Wool, M. R."
   },
   {
     "id": "RSP-096",
@@ -1264,12 +1434,15 @@
     "title": "Solid-propellant rocket motor internal ballistic performance variation analysis, phase 2",
     "source_url": "https://ntrs.nasa.gov/api/citations/19770021269/downloads/19770021269.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "NASA NTRS lists public PDF; direct download not tested",
+    "access_status": "Original NASA NTRS source lists public PDF; automated retrieval not independently verified",
     "year": 1976,
     "citation_url": "https://ntrs.nasa.gov/citations/19770021269",
-    "metadata_status": "verified_on_NASA_NTRS_landing_page",
+    "metadata_status": "verified_on_NASA_NTRS_API",
     "document_type": "Contractor Report",
-    "research_utility": "Monte Carlo thrust imbalance and coupled grain deformation/performance modeling"
+    "research_utility": "Monte Carlo thrust imbalance and coupled grain deformation/performance modeling",
+    "pdf_available_at_source": true,
+    "publication_date": "1976-09-01",
+    "authors": "Sforzini, R. H.; Foster, W. A., Jr."
   },
   {
     "id": "RSP-097",
