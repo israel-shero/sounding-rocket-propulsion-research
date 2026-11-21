@@ -20,7 +20,11 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 META = ROOT / "metadata"
-PAPER_COLS = ["id", "category", "title", "source_url", "pdf_status", "access_status"]
+PAPER_COLS = [
+    "id", "category", "title", "source_url", "pdf_status", "access_status",
+    "year", "document_type", "doi", "citation_url", "metadata_status",
+    "research_utility", "notes",
+]
 SIDER_COLS = [
     "filename", "source_url", "title", "status", "verification",
     "observed_at", "notes",
