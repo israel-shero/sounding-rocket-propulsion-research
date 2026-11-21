@@ -4,7 +4,7 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 
 ## Status
 
-- The `metadata/papers.json` now contains **156 indexed research records** (28 initial discovery leads and 128 later source-checked additions). The latest 46 NASA/DLR records fill gaps in propellant material science, structural integrity, model validation, avionics and recovery, hybrid propulsion, and liquid propulsion. Of these new entries, 29 have a public PDF listed by the source and 17 are citation-only; **none were directly downloaded or imported into Sider during this expansion**.
+- The `metadata/papers.json` contains **190 indexed research records** (28 original discovery leads and 162 later source-checked additions). The latest 34 NASA/DLR references (RSP-157–190) strengthen coverage in solid-motor slag behavior, propellant aging, testing, flight reconstruction, hybrid regression measurement, alternative propellants and liquid-engine combustion. Of the 34 new records, **28 have source-listed public PDF links** and **6 are citation-only or otherwise lack verified open full text**. None of these newly listed PDFs have been downloaded or imported into Sider as part of the current expansion.
 - On November 20, 2026, Sider displayed **79 total file records**, up from 62 at the start of the latest expansion. All 17 new NASA PDF filenames were individually confirmed present after two targeted retry imports; 2 were opened in the full-text viewer, while the other 15 have file-list-level processing confirmation. Total file count is not a count of fully verified academic papers: older errors, an imported NATO 404 page, and records still awaiting content validation remain. The import observation log is historical, including failures, so its row count does not have to match Sider's current file count.
 - Open the [Sider research Wisebase](https://sider.ai/wisebase/6b00ca26d3e350873fe60644).
 
@@ -20,6 +20,7 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 - [Metadata sync GitHub Action](.github/workflows/sync-metadata.yml) — runs on source-data pushes, daily, and manually; commits generated CSV changes when necessary.
 - [PDF collection GitHub Action](.github/workflows/collect-pdfs.yml) — runs every other day and on demand; saves downloadable PDF artifacts and commits download logs and metadata updates.
 - [Coverage-gap expansion guide](notes/coverage_gap_expansion_2026-11-20.md) — 46 NASA/DLR sources grouped by previously underrepresented research area, with public PDF availability and validation caveats.
+- [Continued 190-record research expansion](notes/research_expansion_190_2026-11-20.md) — all 34 new NASA/DLR references with citation links, topic summaries, and access status.
 - [November 20 research expansion reading guide](notes/research_expansion_2026-11-20.md) — 28 newly indexed NASA and DLR publications with topic-by-topic reading priorities.
 - [Reading template](notes/READING_TEMPLATE.md) and [Sider setup](SIDER_SETUP.md).
 
