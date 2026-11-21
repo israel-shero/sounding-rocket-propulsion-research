@@ -5,7 +5,7 @@ Generated deterministically from the current bibliography. This report checks **
 | Check | Value |
 |---|---:|
 | Records | 190 |
-| Publication years present | 189 |
+| Publication years present | 190 |
 | Author fields present | 159 |
 | DOIs present | 21 |
 | Citation pages present | 190 |
@@ -14,7 +14,7 @@ Generated deterministically from the current bibliography. This report checks **
 | PDF availability unknown | 0 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
-| Review flags | 1 |
+| Review flags | 0 |
 
 ## Blocking structural issues
 
@@ -22,7 +22,7 @@ None.
 
 ## Items needing further source verification
 
-- RSP-164: publication year not yet verified
+None.
 
 ## Reading status vocabulary
 
