@@ -1,0 +1,68 @@
+name: Audit all public research PDF sources
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fulltext-audit.yml'
+      - 'scripts/fulltext_audit.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fulltext-audit
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install PDF parser
+        run: python3 -m pip install 'pypdf>=5,<8'
+      - name: Validate one sixth of the source-linked PDFs
+        run: python3 scripts/fulltext_audit.py shard --index "${{ matrix.shard }}" --count 6
+      - name: Preserve this shard's validation records
+        uses: actions/upload-artifact@v4
+        with:
+          name: fulltext-shard-${{ matrix.shard }}
+          path: audit-output/shard-${{ matrix.shard }}.csv
+          retention-days: 14
+          if-no-files-found: error
+
+  reconcile:
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Download all six audit shards
+        uses: actions/download-artifact@v4
+        with:
+          pattern: fulltext-shard-*
+          path: audit-output
+          merge-multiple: true
+      - name: Refuse incomplete results and build full audit ledger
+        run: python3 scripts/fulltext_audit.py merge --count 6
+      - name: Commit checksums and results (never PDF bytes)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/fulltext_validation.csv metadata/fulltext_summary.json
+          if git diff --cached --quiet; then
+            echo "Full-text audit ledger unchanged."
+            exit 0
+          fi
+          git commit -m "Record full-library PDF validation results"
+          git pull --rebase origin main
+          git push origin HEAD:main
