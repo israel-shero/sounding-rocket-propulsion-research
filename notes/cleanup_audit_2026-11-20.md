@@ -9,15 +9,15 @@ The bibliography retains **190 records and stable IDs**. No records were deleted
 | Metric | Count |
 |---|---:|
 | Indexed records | 190 |
-| Publication years present | 189 |
-| Author fields present | 114 |
+| Publication years present | 190 |
+| Author fields present | 159 |
 | DOI fields present | 21 |
 | Citation pages present | 190 |
-| Source explicitly lists a PDF | 90 |
-| Source explicitly has no verified open PDF | 30 |
-| PDF source availability not yet verified | 70 |
+| Source explicitly lists a PDF | 159 |
+| Citation-only/no source PDF | 31 |
+| PDF source availability not yet verified | 0 |
 
-The final remaining missing year is **RSP-164**; the NASA source did not provide a reliable publication-date field. We did not infer a date from its report identifier.
+**RSP-164** is dated **2022** on the basis of the AIAA SciTech Forum meeting dates (January 3–7, 2022) in its official NASA NTRS record. Its conference year is verified, but NTRS supplies no separate paper publication date.
 
 ### Confirmed repairs
 
@@ -32,17 +32,19 @@ The final remaining missing year is **RSP-164**; the NASA source did not provide
 
 ### What these checks do not establish
 
-- The repository has not yet completed a full run of **190 PDF downloads with structure validation**. Until it does, the absence of a committed `metadata/download_results.csv` is not proof that those downloads failed.
+- The repository has not completed **full-text retrieval validation**. The downloader now selects rotating batches of at most **30 eligible PDF links per run**, rather than trying all sources within the 40-minute GitHub Actions timeout. Its log describes the **most recent run only**, including records marked `not_checked_this_run`. Absence of a committed `metadata/download_results.csv` does not establish download failure.
 - PDF signature and page-count validation are **not** evidence that the PDF contains the expected article or that its scholarly claims are valid.
 - Some bibliography records are abstracts, presentations, posters, theses, and technical reports rather than peer-reviewed journal papers.
 - The Sider import history includes a NATO 404 page and a previously failed processing record; neither was deleted, and the current status was not rechecked during this cleanup.
-- The **70 PDF availability-unknown records** require source-specific access checks. A failed HTTP response from a publisher is not proof the paper has no legitimate open-access copy.
+- The former **69 unknown PDF-availability records**, plus the subsequently corrected citation-only AGARD proceedings, have now been reconciled against original NASA, DLR, and MIT repository listings. This verifies link listings, not successful file retrieval. MIT's thesis PDF, for example, returned HTTP 429 during a direct fetch even though the archive lists the file.
 
 ## Source of truth and automated checks
 
 - [Bibliography JSON](../metadata/papers.json)
 - [Bibliography CSV](../metadata/papers.csv)
 - [Bibliography quality report](../metadata/quality_report.md)
+- [Machine-readable audit](../metadata/catalog_quality.json)
+- [Regression tests](../tests/test_catalog_quality.py)
 - [Downloader](../scripts/download_pdfs.py)
 - [Metadata audit](../scripts/audit_bibliography.py)
 - [Sider import observations](../metadata/sider_import_events.jsonl)
