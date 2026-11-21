@@ -1,0 +1,20 @@
+{
+  "audited_at_utc": "2026-11-21T06:30:11+00:00",
+  "catalog_git_sha": "ec70458e2e46e62286db15d66bee1f91550145d6",
+  "catalog_records": 190,
+  "source_listed_pdfs": 159,
+  "source_tested_in_this_run": 159,
+  "source_pdfs_with_valid_structure": 140,
+  "citation_only_records": 31,
+  "results_by_status": {
+    "encrypted_pdf": 2,
+    "http_error": 10,
+    "network_error": 2,
+    "no_source_pdf": 31,
+    "not_pdf": 1,
+    "pdf_structure_valid": 140,
+    "too_large": 4
+  },
+  "limits": "40 MB per source; no paywall bypass; no PDF bytes committed",
+  "validation_scope": "Downloaded PDF structure/page tree/checksum only; scholarly title/identity and reading quality not independently checked"
+}
