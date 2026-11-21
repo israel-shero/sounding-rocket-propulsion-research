@@ -425,32 +425,35 @@
     "title": "VSB-30 sounding rocket: history of flight performance",
     "source_url": "https://elib.dlr.de/74326/1/VSB-30_performance_history.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2011,
     "citation_url": "https://elib.dlr.de/74326/",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-030",
     "category": "Sounding rockets",
     "title": "Development and Projected Performance of the Red Kite Sounding Rocket Motor",
-    "source_url": "https://elib.dlr.de/197879/1/2022_06%20Scheuerpflug,%20Kuhn%20et%20al.,%20%20Development%20and%20Performance%20of%20the%20Red%20Kite.pdf",
+    "source_url": "https://elib.dlr.de/197879/1/2022_06%20Scheuerpflug%2C%20Kuhn%20et%20al.%2C%20%20Development%20and%20Performance%20of%20the%20Red%20Kite.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2022,
     "citation_url": "https://elib.dlr.de/197879/",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-031",
     "category": "Flight dynamics",
     "title": "Sounding Rocket Dispersion Reduction by Second Stage Pointing Control",
-    "source_url": "https://elib.dlr.de/82127/1/Publikation_im_Journal_of_Spacecraft_and_Rockets,_Vol_49,_No.6,_Nov-Dec_2012_-_Kopie.pdf",
+    "source_url": "https://elib.dlr.de/82127/1/Publikation_im_Journal_of_Spacecraft_and_Rockets%2C_Vol_49%2C_No.6%2C_Nov-Dec_2012_-_Kopie.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2012,
     "citation_url": "https://elib.dlr.de/82127/",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-032",
@@ -458,10 +461,11 @@
     "title": "The HyEnD STERN Hybrid Sounding Rocket Project",
     "source_url": "https://elib.dlr.de/132743/1/Kobald%20eucass2019_025.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2019,
     "citation_url": "https://elib.dlr.de/132743/",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-033",
@@ -469,10 +473,11 @@
     "title": "Design of a hovering sounding rocket stage for measurements in the high atmosphere",
     "source_url": "https://elib.dlr.de/140301/1/485_NAUMANN-DRESCHER.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2020,
     "citation_url": "https://elib.dlr.de/140301/",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-034",
@@ -947,10 +952,11 @@
     "title": "Flight Qualification of the Red Kite Solid Rocket Motor",
     "source_url": "https://elib.dlr.de/211012/1/Flight%20Qualification%20of%20the%20Red%20Kite%20Solid%20Rocket%20Motor.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "citation_url": "https://elib.dlr.de/211012/",
-    "metadata_status": "title_verified_at_source",
-    "year": 2024
+    "metadata_status": "verified_on_DLR_repository_record",
+    "year": 2024,
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-066",
@@ -1450,13 +1456,14 @@
     "title": "Experiments for Collection and Characterization of Particles Exiting from Solid Propellant Rocket Nozzles",
     "source_url": "https://elib.dlr.de/136747/1/Maggi_2020_Experiments%20for%20collection%20and%20characterization%20of%20particles.PDF",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2020,
     "citation_url": "https://elib.dlr.de/136747/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Intrusive probe method for alumina particle capture and characterization",
-    "doi": "10.2514/6.2020-3932"
+    "doi": "10.2514/6.2020-3932",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-098",
@@ -1464,13 +1471,14 @@
     "title": "Characterization of SRM plumes with alumina particulate in subscale testing",
     "source_url": "https://elib.dlr.de/140060/1/Saile2020_Article_CharacterizationOfSRMPlumesWit.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2020,
     "citation_url": "https://elib.dlr.de/140060/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Journal Article",
     "research_utility": "Subscale motor test, burn-rate and plume particulate measurement methods",
-    "doi": "10.1007/s12567-020-00338-0"
+    "doi": "10.1007/s12567-020-00338-0",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-099",
@@ -1478,12 +1486,13 @@
     "title": "Particle Size in Solid Rocket Motor Plume: New Experimental Method",
     "source_url": "https://elib.dlr.de/133855/1/Particle-Size-in-Solid-Rocket-Motor-Plume-New-Experimental-Method.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2019,
     "citation_url": "https://elib.dlr.de/133855/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Particle sampling and sizing experiments at nozzle exit"
+    "research_utility": "Particle sampling and sizing experiments at nozzle exit",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-100",
@@ -1491,12 +1500,13 @@
     "title": "Rate Control System for Sounding Rockets",
     "source_url": "https://elib.dlr.de/82067/1/rate_control.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2009,
     "citation_url": "https://elib.dlr.de/82067/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "DLR RCS design and feedback control for sounding rocket payloads"
+    "research_utility": "DLR RCS design and feedback control for sounding rocket payloads",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-101",
@@ -1504,12 +1514,13 @@
     "title": "Trajectory and control systems design for a hovering mesopause probe",
     "source_url": "https://elib.dlr.de/124267/1/IAC-18%2CC4%2C6%2C12%2Cx46846%20Trajectory%20and%20control%20systems%20design%20for%20a%20hoveri....pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2018,
     "citation_url": "https://elib.dlr.de/124267/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Trajectory optimization and attitude control for hovering sounding rocket probe"
+    "research_utility": "Trajectory optimization and attitude control for hovering sounding rocket probe",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-102",
@@ -1517,13 +1528,14 @@
     "title": "Hypersonic flight missions and recent technology advances by Mobile Rocket Base",
     "source_url": "https://elib.dlr.de/226323/1/s12567-026-00733-z.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2026,
     "citation_url": "https://elib.dlr.de/226323/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Journal Article",
     "research_utility": "Survey of 14 hypersonic research missions and sounding-rocket adaptations",
-    "doi": "10.1007/s12567-026-00733-z"
+    "doi": "10.1007/s12567-026-00733-z",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-103",
@@ -1531,13 +1543,14 @@
     "title": "Main flight data on transpiration cooled sharp edge fins in hypersonic conditions on the sounding rocket HIFLIER",
     "source_url": "https://elib.dlr.de/215242/1/1-s2.0-S1270963824010241-main.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2025,
     "citation_url": "https://elib.dlr.de/215242/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Journal Article",
     "research_utility": "Mach 6.15 flight data and thermal-protection validation",
-    "doi": "10.1016/j.ast.2024.109895"
+    "doi": "10.1016/j.ast.2024.109895",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-104",
@@ -1545,12 +1558,13 @@
     "title": "Combustion modeling in solid rocket motor plumes",
     "source_url": "https://elib.dlr.de/126478/1/EUCASS2019_ecker_final_elib.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2019,
     "citation_url": "https://elib.dlr.de/126478/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Reduced finite-rate reaction mechanism in rocket plume CFD"
+    "research_utility": "Reduced finite-rate reaction mechanism in rocket plume CFD",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-105",
@@ -1558,12 +1572,13 @@
     "title": "Experimental Modeling of Alumina Particulate in Solid Booster: Final Report",
     "source_url": "https://elib.dlr.de/136755/1/F_FinalReport_Accecpted.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed (183 MB, exceeds current 40 MB download limit)",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2020,
     "citation_url": "https://elib.dlr.de/136755/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Project Report",
-    "research_utility": "Extensive subscale test database and plume measurement report (872 pages)"
+    "research_utility": "Extensive subscale test database and plume measurement report (872 pages)",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-106",
@@ -1571,13 +1586,14 @@
     "title": "Reference datasets of primary rocket engine emissions for global launch inventories",
     "source_url": "https://elib.dlr.de/226591/1/CEAS_S3D_Reference_datasets_of_primary_rocket_engine_emissions_for_global_launch_inventories.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2026,
     "citation_url": "https://elib.dlr.de/226591/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Journal Article",
     "research_utility": "0D thermochemical exhaust-composition reference datasets including SRMs",
-    "doi": "10.1007/s12567-026-00760-w"
+    "doi": "10.1007/s12567-026-00760-w",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-107",
@@ -1585,12 +1601,13 @@
     "title": "Layout and Design of a pressurised Structure for gelled Propellants for a Thrust controllable Sounding Rocket Upper Stage",
     "source_url": "https://elib.dlr.de/147910/1/SpaceOps-2021%2C12%2Cx1548.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2021,
     "citation_url": "https://elib.dlr.de/147910/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Pressure-fed gel-propellant upper-stage tank design and structural analysis"
+    "research_utility": "Pressure-fed gel-propellant upper-stage tank design and structural analysis",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-108",
@@ -1598,12 +1615,13 @@
     "title": "Overview to the ESA-EMAP Project: Characterization of SRM Plumes with Alumina Particulate in Subscale Testing",
     "source_url": "https://elib.dlr.de/129440/1/FAR2019_Saile_OverviewToESAEMAP_maxRes.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2019,
     "citation_url": "https://elib.dlr.de/129440/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Early EMAP subscale rocket motor and plume characterization"
+    "research_utility": "Early EMAP subscale rocket motor and plume characterization",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-109",
@@ -1611,12 +1629,13 @@
     "title": "Sound Production due to Swirl-Nozzle Interaction: Model-Based Analysis of Experiments",
     "source_url": "https://elib.dlr.de/137433/1/HirschbergEtAlSwirlNozleInteractionPreprint.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2020,
     "citation_url": "https://elib.dlr.de/137433/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Preprint",
-    "research_utility": "Indirect acoustic-noise generation in swirling nozzle flows"
+    "research_utility": "Indirect acoustic-noise generation in swirling nozzle flows",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-110",
@@ -1624,12 +1643,13 @@
     "title": "ReFEx: Reusability Flight Experiment - A Demonstration Experiment for Technologies for Aerodynamically Controlled RLV Stages",
     "source_url": "https://elib.dlr.de/197916/1/Paper_EUCASS_Refex-System%20Overview.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "DLR public PDF listed; direct download not tested",
+    "access_status": "DLR public PDF listed; download not independently validated",
     "year": 2023,
     "citation_url": "https://elib.dlr.de/197916/",
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
-    "research_utility": "Sounding-rocket-carried aerodynamic return-flight experiment overview"
+    "research_utility": "Sounding-rocket-carried aerodynamic return-flight experiment overview",
+    "pdf_available_at_source": true
   },
   {
     "id": "RSP-111",
