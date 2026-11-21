@@ -4,8 +4,8 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 
 ## Status
 
-- The `metadata/papers.json` now contains **51 research records** (original 28 discovery leads plus 23 additional source-checked entries). The original leads still need individual validation; later entries were checked against NASA, DLR, MIT, or NATO records.
-- On November 20, 2026, Sider displayed **54 file records** after the latest expansion, compared with 36 at the start of this round. That includes 17 additional PDF-named entries and one NATO link import that produced an HTML error page rather than a research PDF. The import observation log identifies **52 filenames/records** from the 54 total; two earlier records lack reliable identifiers. Earlier checks also noted a failed-to-process file, `19970004933.pdf`, whose current status has not been re-verified exhaustively. The CSV distinguishes viewer-verified files from file-list-only entries.
+- The `metadata/papers.json` now contains **65 indexed research records** (28 initial discovery leads and 37 later source-checked additions). Links and bibliographic metadata should still be validated individually before use in formal citations.
+- On November 20, 2026, the latest read-only Sider audit displayed **62 total file records**, compared with 54 before the latest import round. That number includes items that may be processing, an HTML error page imported from a broken NATO link, and potentially unsuccessful records; it must not be treated as 62 verified research PDFs. The metadata observation log currently has **63 distinct filename/status entries**, including 3 `not_found`, 2 `process_failed`, and 1 `submitted` records, so its row count is not equal to Sider's actual file count. Older Sider records and content identity still need comprehensive auditing.
 - Open the [Sider research Wisebase](https://sider.ai/wisebase/6b00ca26d3e350873fe60644).
 
 ## Metadata and automation
