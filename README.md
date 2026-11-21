@@ -4,14 +4,14 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 
 ## Status
 
-- The `metadata/papers.json` now contains **110 indexed research records** (28 initial discovery leads and 82 later source-checked additions). The 28 latest NASA and DLR research records (RSP-083–110) include original source links, years, document types, and research utility notes; PDFs from this latest batch have not yet been downloaded or imported into Sider.
+- The `metadata/papers.json` now contains **156 indexed research records** (28 initial discovery leads and 128 later source-checked additions). The latest 46 NASA/DLR records fill gaps in propellant material science, structural integrity, model validation, avionics and recovery, hybrid propulsion, and liquid propulsion. Of these new entries, 29 have a public PDF listed by the source and 17 are citation-only; **none were directly downloaded or imported into Sider during this expansion**.
 - On November 20, 2026, Sider displayed **79 total file records**, up from 62 at the start of the latest expansion. All 17 new NASA PDF filenames were individually confirmed present after two targeted retry imports; 2 were opened in the full-text viewer, while the other 15 have file-list-level processing confirmation. Total file count is not a count of fully verified academic papers: older errors, an imported NATO 404 page, and records still awaiting content validation remain. The import observation log is historical, including failures, so its row count does not have to match Sider's current file count.
 - Open the [Sider research Wisebase](https://sider.ai/wisebase/6b00ca26d3e350873fe60644).
 
 ## Metadata and automation
 
 - [Bibliography source (JSON)](metadata/papers.json) — authoritative records with stable paper IDs.
-- [Bibliography (CSV)](metadata/papers.csv) — auto-generated from JSON, including year, paper type, DOI, citation link, and research utility when available.
+- [Bibliography (CSV)](metadata/papers.csv) — auto-generated from JSON, including authors, publication date, paper type, DOI, citation link, research utility, and PDF availability when available.
 - [Sider import observations (JSONL)](metadata/sider_import_events.jsonl) — append-only evidence log (one JSON object per line, latest observation for each filename takes precedence).
 - [Sider import inventory (CSV)](metadata/sider_imports.csv) — auto-generated from the observation log.
 - [Download results (CSV)](metadata/download_results.csv) — updated by the scheduled PDF download workflow when it runs.
@@ -19,6 +19,7 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 - [Metadata sync script](scripts/sync_metadata.py) — validates input records and deterministically refreshes CSV outputs.
 - [Metadata sync GitHub Action](.github/workflows/sync-metadata.yml) — runs on source-data pushes, daily, and manually; commits generated CSV changes when necessary.
 - [PDF collection GitHub Action](.github/workflows/collect-pdfs.yml) — runs every other day and on demand; saves downloadable PDF artifacts and commits download logs and metadata updates.
+- [Coverage-gap expansion guide](notes/coverage_gap_expansion_2026-11-20.md) — 46 NASA/DLR sources grouped by previously underrepresented research area, with public PDF availability and validation caveats.
 - [November 20 research expansion reading guide](notes/research_expansion_2026-11-20.md) — 28 newly indexed NASA and DLR publications with topic-by-topic reading priorities.
 - [Reading template](notes/READING_TEMPLATE.md) and [Sider setup](SIDER_SETUP.md).
 
@@ -33,7 +34,7 @@ python3 scripts/sync_metadata.py
 python3 scripts/download_pdfs.py
 ```
 
-The PDF retrieval script writes local PDFs to `pdfs/`, excluded from git. The metadata sync script uses the Python standard library. No paywall, authentication, or publisher access controls are bypassed.
+The PDF retrieval script skips bibliography-only records whose sources do not list a public PDF, and writes local PDFs to `pdfs/`, excluded from git. The metadata sync script uses the Python standard library. No paywall, authentication, or publisher access controls are bypassed.
 
 ## Scope
 
