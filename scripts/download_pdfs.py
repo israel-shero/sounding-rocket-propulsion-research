@@ -13,6 +13,9 @@ with (root / "metadata/download_results.csv").open("w", newline="", encoding="ut
     writer = csv.writer(f)
     writer.writerow(["id", "status", "details"])
     for paper in papers:
+        if paper.get("pdf_available_at_source") is False or paper.get("pdf_status") == "not available":
+            writer.writerow([paper["id"], "skipped_no_pdf", "Only bibliographic metadata is available from the source; no PDF is listed."])
+            continue
         dest = root / "pdfs" / (paper["id"] + ".pdf")
         if dest.exists():
             writer.writerow([paper["id"], "exists", str(dest)])
