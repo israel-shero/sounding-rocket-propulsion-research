@@ -10,8 +10,8 @@ The bibliography retains **190 records and stable IDs**. No records were deleted
 |---|---:|
 | Indexed records | 190 |
 | Publication years present | 190 |
-| Author fields present | 159 |
-| DOI fields present | 21 |
+| Author fields present | 179 |
+| DOI fields present | 24 |
 | Citation pages present | 190 |
 | Source explicitly lists a PDF | 159 |
 | Citation-only/no source PDF | 31 |
@@ -21,6 +21,9 @@ The bibliography retains **190 records and stable IDs**. No records were deleted
 
 ### Confirmed repairs
 
+- **RSP-013**: Corrected the IIETA article DOI to `10.18280/ijht.360338`, verified its open PDF link and populated its author list and journal-article type.
+- **RSP-164**: Confirmed the 2022 conference year from NASA-listed SciTech Forum dates and recovered the full author list.
+- **DLR papers RSP-029–033, 065, 097–110**: Confirmed original PDF links and filled 20 author fields, plus additional DOIs where supported.
 - **RSP-001**: Restored the full JAXA reusable sounding-rocket propulsion paper title, author list, year, DOI, and original J-STAGE PDF link.
 - **RSP-002–003, RSP-008, RSP-010–014, RSP-023–028**: Recovered independently supported citation dates, original citation links, authors and/or DOIs where available.
 - **RSP-015–017**: Replaced landing-page or legacy-archive download URLs with PDF paths explicitly listed by the NASA NTRS source record.
@@ -28,7 +31,7 @@ The bibliography retains **190 records and stable IDs**. No records were deleted
 - **RSP-004 and RSP-007**: Repaired previously uncertain original-source metadata using publisher and journal references, including title, date, DOI, and correct institutional or conference download information.
 - **RSP-057–060**: Removed four invented/constructed NASA PDF download links. The NTRS API lists **zero PDF downloads** for these reports, so the genuine bibliographic pages are retained and the downloader will skip them.
 - **PDF collection script**: Prevents HTML/DOI landing-page responses from being counted as PDFs; requires readable PDF structure and page count, and records byte size, SHA-256, final status and failure reasons. Third-party PDFs stay in temporary GitHub Actions artifacts; not the public GitHub repository.
-- **Scheduled metadata sync**: Runs source consistency checks and generates `metadata/quality_report.md`. Structural defects fail the sync; incomplete citation fields remain flagged for review.
+- **Scheduled metadata sync**: Runs source consistency checks and unit tests, generating `metadata/quality_report.md` and `metadata/catalog_quality.json`. Structural defects fail the sync; incomplete citation fields remain flagged for review.
 
 ### What these checks do not establish
 
