@@ -6,15 +6,15 @@ Generated deterministically from the current bibliography. This report checks **
 |---|---:|
 | Records | 190 |
 | Publication years present | 189 |
-| Author fields present | 114 |
+| Author fields present | 158 |
 | DOIs present | 21 |
 | Citation pages present | 190 |
-| Explicit source-listed PDFs | 90 |
+| Explicit source-listed PDFs | 138 |
 | Explicit no-PDF sources | 31 |
-| PDF availability unknown | 69 |
+| PDF availability unknown | 21 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
-| Review flags | 70 |
+| Review flags | 22 |
 
 ## Blocking structural issues
 
@@ -27,56 +27,8 @@ None.
 - RSP-031: source PDF availability not yet verified
 - RSP-032: source PDF availability not yet verified
 - RSP-033: source PDF availability not yet verified
-- RSP-034: source PDF availability not yet verified
-- RSP-035: source PDF availability not yet verified
-- RSP-036: source PDF availability not yet verified
-- RSP-037: source PDF availability not yet verified
-- RSP-038: source PDF availability not yet verified
-- RSP-039: source PDF availability not yet verified
-- RSP-040: source PDF availability not yet verified
-- RSP-042: source PDF availability not yet verified
-- RSP-043: source PDF availability not yet verified
-- RSP-044: source PDF availability not yet verified
-- RSP-045: source PDF availability not yet verified
-- RSP-046: source PDF availability not yet verified
 - RSP-047: source PDF availability not yet verified
-- RSP-048: source PDF availability not yet verified
-- RSP-049: source PDF availability not yet verified
-- RSP-050: source PDF availability not yet verified
-- RSP-051: source PDF availability not yet verified
-- RSP-061: source PDF availability not yet verified
 - RSP-065: source PDF availability not yet verified
-- RSP-066: source PDF availability not yet verified
-- RSP-067: source PDF availability not yet verified
-- RSP-068: source PDF availability not yet verified
-- RSP-069: source PDF availability not yet verified
-- RSP-070: source PDF availability not yet verified
-- RSP-071: source PDF availability not yet verified
-- RSP-072: source PDF availability not yet verified
-- RSP-073: source PDF availability not yet verified
-- RSP-074: source PDF availability not yet verified
-- RSP-075: source PDF availability not yet verified
-- RSP-076: source PDF availability not yet verified
-- RSP-077: source PDF availability not yet verified
-- RSP-078: source PDF availability not yet verified
-- RSP-079: source PDF availability not yet verified
-- RSP-080: source PDF availability not yet verified
-- RSP-081: source PDF availability not yet verified
-- RSP-082: source PDF availability not yet verified
-- RSP-083: source PDF availability not yet verified
-- RSP-084: source PDF availability not yet verified
-- RSP-085: source PDF availability not yet verified
-- RSP-086: source PDF availability not yet verified
-- RSP-087: source PDF availability not yet verified
-- RSP-088: source PDF availability not yet verified
-- RSP-089: source PDF availability not yet verified
-- RSP-090: source PDF availability not yet verified
-- RSP-091: source PDF availability not yet verified
-- RSP-092: source PDF availability not yet verified
-- RSP-093: source PDF availability not yet verified
-- RSP-094: source PDF availability not yet verified
-- RSP-095: source PDF availability not yet verified
-- RSP-096: source PDF availability not yet verified
 - RSP-097: source PDF availability not yet verified
 - RSP-098: source PDF availability not yet verified
 - RSP-099: source PDF availability not yet verified

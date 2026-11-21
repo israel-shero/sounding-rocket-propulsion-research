@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "records": 190,
+    "abstract_records": 10,
+    "citation_only": 31,
+    "http_source_links": 1,
+    "missing_authors": 32,
+    "missing_doi": 169,
+    "missing_type": 10,
+    "missing_year": 1,
+    "presentation_or_poster_records": 5,
+    "source_listed_pdf": 138,
+    "unconfirmed_pdf_availability": 21
+  },
+  "errors": [],
+  "warnings": [],
+  "scope": "metadata integrity only; not an online PDF audit"
+}
