@@ -76,7 +76,14 @@
     "title": "Coupled Flow-Thermal Analysis of a Rocket Nozzle with Charring Ablative Thermal Protection System",
     "source_url": "https://arxiv.org/pdf/2411.19792",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2024,
+    "authors": "Sheikh, Basit G.; Kumar, Rakesh; Kumar S, Susheel",
+    "doi": "10.48550/arXiv.2411.19792",
+    "citation_url": "https://arxiv.org/abs/2411.19792",
+    "metadata_status": "verified_on_arXiv_abstract_page",
+    "pdf_available_at_source": true,
+    "document_type": "Preprint"
   },
   {
     "id": "RSP-010",
@@ -183,7 +190,14 @@
     "title": "Introduction to the Special Issue on Sounding Rockets and Instrumentation",
     "source_url": "https://arxiv.org/pdf/1602.02333",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2016,
+    "authors": "Christe, Steven; Zeiger, Ben; Pfaff, Rob; Garcia, Michael",
+    "doi": "10.48550/arXiv.1602.02333",
+    "citation_url": "https://arxiv.org/abs/1602.02333",
+    "metadata_status": "verified_on_arXiv_abstract_page",
+    "pdf_available_at_source": true,
+    "document_type": "Preprint"
   },
   {
     "id": "RSP-020",
