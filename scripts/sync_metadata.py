@@ -8,6 +8,7 @@ Authoritative inputs:
 Generated outputs:
   metadata/papers.csv
   metadata/sider_imports.csv
+  metadata/quality_report.md
 
 Sider is not queried by this script. A record is only as verified as its
 source observation; file-list presence must not imply full-text readability.
