@@ -59,6 +59,12 @@ def audit(papers):
         year = paper.get("year")
         if year is not None and (not isinstance(year, int) or year < 1900 or year > datetime.now(timezone.utc).year + 1):
             review.append(f"{ident}: implausible publication year {year}")
+        if paper.get("year") is None:
+            review.append(f"{ident}: publication year not yet verified")
+        if paper.get("pdf_available_at_source") is None:
+            review.append(f"{ident}: source PDF availability not yet verified")
+        if paper.get("metadata_status") == "needs_source_verification":
+            review.append(f"{ident}: bibliographic source still requires checking")
         if paper.get("pdf_available_at_source") is False and paper.get("pdf_status") == "not downloaded":
             hard.append(f"{ident}: no source PDF, yet pdf_status is 'not downloaded'")
         if paper.get("pdf_status") == "not available" and paper.get("pdf_available_at_source") is True:
@@ -110,13 +116,13 @@ def write_report(metrics, hard, review):
     lines += [f"- {x}" for x in review] if review else ["None."]
     lines += [
         "", "## Reading status vocabulary", "",
-        "- \`pdf_available_at_source = true\`: a publisher/archive lists a PDF. **Not proof of download.**",
-        "- \`pdf_status = not downloaded\`: PDF is not stored in this repository; it is only a candidate for collection.",
-        "- \`pdf_status = not available\`: no openly listed direct PDF at the source; preserve the bibliographic lead.",
-        "- \`downloaded_validated\` in the download log (when present): a fetched PDF passed format checks; "
+        "- `pdf_available_at_source = true`: a publisher/archive lists a PDF. **Not proof of download.**",
+        "- `pdf_status = not downloaded`: PDF is not stored in this repository; it is only a candidate for collection.",
+        "- `pdf_status = not available`: no openly listed direct PDF at the source; preserve the bibliographic lead.",
+        "- `downloaded_validated` in the download log (when present): a fetched PDF passed format checks; "
         "not necessarily reviewed for article-title or content matching.",
-        "- Sider \`verification = file_list\`: file name was seen; full PDF contents not checked.",
-        "- Sider \`verification = viewer\`: file was opened, but matching the full article title still requires care.",
+        "- Sider `verification = file_list`: file name was seen; full PDF contents not checked.",
+        "- Sider `verification = viewer`: file was opened, but matching the full article title still requires care.",
         "", "## Scope and next actions", "",
         "Review original discovery records with missing authors, DOIs, or citation links. "
         "Review publisher-blocked links manually. Do not infer that a DOI landing page is a PDF. "
