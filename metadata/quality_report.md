@@ -5,13 +5,13 @@ Generated deterministically from the current bibliography. This report checks **
 | Check | Value |
 |---|---:|
 | Records | 190 |
-| Publication years present | 187 |
-| Author fields present | 112 |
-| DOIs present | 19 |
-| Citation pages present | 188 |
-| Explicit source-listed PDFs | 88 |
+| Publication years present | 189 |
+| Author fields present | 114 |
+| DOIs present | 21 |
+| Citation pages present | 190 |
+| Explicit source-listed PDFs | 90 |
 | Explicit no-PDF sources | 30 |
-| PDF availability unknown | 72 |
+| PDF availability unknown | 70 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
 | Review flags | 0 |
