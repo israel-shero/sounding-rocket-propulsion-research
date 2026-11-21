@@ -4,7 +4,7 @@ Public, version-controlled bibliography for sounding rockets, rocket propulsion,
 
 ## Status
 
-- The bibliography contains **190 indexed records**, with **190 publication years**, **159 author fields**, and **21 recorded DOIs**. The original archives list public PDFs for **159 records**, while **31 are citation-only**. All source-level PDF availability flags have been resolved; actual download and PDF contents still require independent checks.
+- The bibliography contains **190 indexed records**, with **190 publication years**, **179 author fields**, and **24 recorded DOIs**. The original archives list public PDFs for **159 records**, while **31 are citation-only**. All 190 records now have an assigned document type and source-level PDF availability status; actual retrieval and document identity still require independent checks.
 - On November 20, 2026, Sider displayed **79 total file records**, up from 62 at the start of the latest expansion. All 17 new NASA PDF filenames were individually confirmed present after two targeted retry imports; 2 were opened in the full-text viewer, while the other 15 have file-list-level processing confirmation. Total file count is not a count of fully verified academic papers: older errors, an imported NATO 404 page, and records still awaiting content validation remain. The import observation log is historical, including failures, so its row count does not have to match Sider's current file count.
 - Open the [Sider research Wisebase](https://sider.ai/wisebase/6b00ca26d3e350873fe60644).
 
