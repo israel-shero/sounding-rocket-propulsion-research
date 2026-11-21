@@ -2,10 +2,17 @@
   {
     "id": "RSP-001",
     "category": "Sounding rockets",
-    "title": "Development of Main Propulsion System for Reusable Sounding Rocket",
-    "source_url": "https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_pdf",
+    "title": "Development of Main Propulsion System for Reusable Sounding Rocket: Design Considerations and Technology Demonstration",
+    "source_url": "https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_pdf/-char/en",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2014,
+    "authors": "Sato, Masaki; Hashimoto, Tomoyuki; Takada, Satoshi; Kimura, Toshiya; Onodera, Takuo; Naruo, Yoshihiro; Yagishita, Tsuyoshi; Niu, Ken-ichi; Kaneko, Takao; Obase, Kimihito",
+    "doi": "10.2322/tastj.12.Tm_1",
+    "document_type": "Journal Article",
+    "citation_url": "https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_article",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-002",
@@ -13,7 +20,14 @@
     "title": "Design of a Solid Rocket Propulsion System",
     "source_url": "https://zenodo.org/records/5710284/files/IJASAR-2470-4415-07-201.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2020,
+    "authors": "Alemayehu, Adde Y.; Solomon, Lulseged G.",
+    "doi": "10.19070/2470-4415-2000027",
+    "document_type": "Journal Article",
+    "citation_url": "https://zenodo.org/records/5710284",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-003",
@@ -21,7 +35,14 @@
     "title": "Parameters Affecting the Erosive Burning of Solid Rocket Motor",
     "source_url": "https://www.matec-conferences.org/articles/matecconf/pdf/2018/12/matecconf_icmme2018_03001.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2018,
+    "authors": "Abdelaziz, Almostafa; Guozhu, Liang; Elsayed, Anwer",
+    "doi": "10.1051/matecconf/201815303001",
+    "document_type": "Conference Paper",
+    "citation_url": "https://www.matec-conferences.org/articles/matecconf/abs/2018/12/matecconf_icmme2018_03001/matecconf_icmme2018_03001.html",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-004",
@@ -29,7 +50,9 @@
     "title": "Erosive Burning Modeling for Solid Propellant Rocket Motor",
     "source_url": "http://iccee.journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "metadata_status": "needs_source_verification",
+    "notes": "No verified publisher page-to-PDF metadata match in this audit; source and title need further checking."
   },
   {
     "id": "RSP-005",
@@ -50,9 +73,15 @@
     "id": "RSP-006",
     "category": "Combustion instability",
     "title": "Aluminum combustion instabilities: Dimensionless numbers controlling the instability in solid rocket motors",
-    "source_url": "https://www.sciencedirect.com/science/article/am/pii/S0010218021003060",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0010218021003060",
+    "pdf_status": "not available",
+    "access_status": "publisher record verified; public PDF not confirmed",
+    "year": 2021,
+    "document_type": "Journal Article",
+    "citation_url": "https://www.sciencedirect.com/science/article/pii/S0010218021003060",
+    "pdf_available_at_source": false,
+    "notes": "Prior source was a publisher article-manuscript endpoint. No direct unrestricted PDF verified, so downloader must not call it as if it were a PDF.",
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-007",
@@ -60,15 +89,23 @@
     "title": "Pressure oscillations and instability of working processes in the combustion chambers of solid rocket motors",
     "source_url": "https://eprints.kingston.ac.uk/id/eprint/36191/1/Volkov-K-36191-AAM.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "metadata_status": "needs_source_verification",
+    "notes": "No verified publisher page-to-PDF metadata match in this audit; source and title need further checking."
   },
   {
     "id": "RSP-008",
     "category": "Combustion instability",
     "title": "The Nonlinear Combustion Instability Prediction of Solid Rocket Motors",
-    "source_url": "http://koreascience.or.kr:80/article/JAKO201610254116263.pdf",
+    "source_url": "https://www.koreascience.kr/article/JAKO201610254116263.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2016,
+    "authors": "Hong, Ji-Seok; Moon, Hee-Jang; Sung, Hong-Gye; Um, Won-Seok; Seo, Seonghyeon; Lee, Do-hyung",
+    "document_type": "Journal Article",
+    "citation_url": "https://www.koreascience.kr/article/JAKO201610254116263.page",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-009",
@@ -89,25 +126,44 @@
     "id": "RSP-010",
     "category": "Nozzle thermal protection",
     "title": "Two-Dimensional Modeling of Ablation and Pyrolysis with Application to Rocket Nozzles",
-    "source_url": "http://deepblue.lib.umich.edu/bitstream/2027.42/143121/1/1.A33656.pdf",
+    "source_url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143121/1.A33656.pdf?sequence=1",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2016,
+    "citation_url": "https://deepblue.lib.umich.edu/handle/2027.42/143121",
+    "document_type": "Journal Article",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-011",
     "category": "Nozzle thermal protection",
     "title": "Ablation Study In Rocket Nozzles",
-    "source_url": "https://journals.library.torontomu.ca/index.php/ictea/article/download/1197/1204",
+    "source_url": "https://journals.library.torontomu.ca/index.php/ictea/article/download/1197/1204/6267",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2019,
+    "authors": "Suri, Anshul; Bansal, Ankit",
+    "citation_url": "https://journals.library.torontomu.ca/index.php/ictea/article/view/1197",
+    "document_type": "Conference Paper",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-012",
     "category": "Nozzle thermal protection",
     "title": "Testing ultra-high-temperature ceramics for thermal protection and rocket applications",
-    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/17436753.2018.1509175?needAccess=true",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "source_url": "https://doi.org/10.1080/17436753.2018.1509175",
+    "pdf_status": "not available",
+    "access_status": "publisher citation available; no unrestricted PDF verified",
+    "year": 2018,
+    "authors": "Savino, R.; Mungiguerra, S.; Di Martino, G. D.",
+    "doi": "10.1080/17436753.2018.1509175",
+    "citation_url": "https://doi.org/10.1080/17436753.2018.1509175",
+    "document_type": "Journal Article",
+    "pdf_available_at_source": false,
+    "notes": "Original URL included needAccess=true. No open download was confirmed; preserve citation, skip automated PDF download.",
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-013",
@@ -115,58 +171,70 @@
     "title": "Thermal protection of rocket nozzle by using film cooling technology - effect of lateral curvature",
     "source_url": "http://www.iieta.org/download/file/fid/4389",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2018,
+    "authors": "Guelailia, Ahmed; Khorsi, Azzeddine; Boudjemai, Abdelmadjid; Wang, Jin",
+    "doi": "10.18280/ijht.360338",
+    "citation_url": "https://iieta.org/journals/ijht/paper/10.18280/ijht.360338",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-014",
     "category": "Nozzle thermal protection",
     "title": "Analysis of Thermal Protection System in Flex Seal of a Rocket Motor",
     "source_url": "https://doi.org/10.35940/ijitee.a8117.119119",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "pdf_status": "not available",
+    "access_status": "publisher citation available; direct public PDF not verified",
+    "year": 2019,
+    "doi": "10.35940/ijitee.a8117.119119",
+    "citation_url": "https://doi.org/10.35940/ijitee.a8117.119119",
+    "pdf_available_at_source": false,
+    "notes": "DOI resolves to a publisher page; no direct open PDF download verified. Do not treat DOI as a PDF.",
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-015",
     "category": "Sounding rockets",
     "title": "NASA Sounding Rockets User Handbook",
-    "source_url": "https://ntrs.nasa.gov/citations/20230006855",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20230006855/downloads/NASA%20TP%2020230006855%202023.05.08.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "NASA publicly lists PDF download; not independently downloaded",
     "year": 2023,
     "authors": "Robert H Burth; Philip G Cathell; David B Edwards; Ahmed H Ghalib; John C Gsell; Heath C Hales; Herbert C Haugh; Brian R Tibbetts",
     "citation_url": "https://ntrs.nasa.gov/citations/20230006855",
     "publication_date": "2023-05-01",
     "pdf_available_at_source": true,
-    "metadata_status": "verified_on_NASA_NTRS_API",
+    "metadata_status": "verified_on_original_publisher_or_repository",
     "document_type": "Technical Publication (TP)"
   },
   {
     "id": "RSP-016",
     "category": "Sounding rockets",
     "title": "Sounding rockets",
-    "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19650006344.pdf",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19650006344/downloads/19650006344.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "NASA publicly lists PDF download; not independently downloaded",
     "year": 1965,
     "authors": "Pressly, E. C.",
     "citation_url": "https://ntrs.nasa.gov/citations/19650006344",
     "publication_date": "1965-01-01",
     "pdf_available_at_source": true,
-    "metadata_status": "verified_on_NASA_NTRS_API",
+    "metadata_status": "verified_on_original_publisher_or_repository",
     "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-017",
     "category": "Sounding rockets",
     "title": "Handbook for space processing sounding rocket science payloads",
-    "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19750009792.pdf",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19750009792/downloads/19750009792.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "NASA publicly lists PDF download; not independently downloaded",
     "year": 1975,
     "citation_url": "https://ntrs.nasa.gov/citations/19750009792",
     "publication_date": "1975-03-01",
     "pdf_available_at_source": true,
-    "metadata_status": "verified_on_NASA_NTRS_API",
+    "metadata_status": "verified_on_original_publisher_or_repository",
     "document_type": "Technical Memorandum (TM)"
   },
   {
@@ -182,7 +250,8 @@
     "publication_date": "1971-04-01",
     "pdf_available_at_source": true,
     "metadata_status": "verified_on_NASA_NTRS_API",
-    "document_type": "Technical Memorandum (TM)"
+    "document_type": "Technical Memorandum (TM)",
+    "notes": "No verified publisher page-to-PDF metadata match in this audit; source and title need further checking."
   },
   {
     "id": "RSP-019",
@@ -249,31 +318,60 @@
     "title": "Solid Rocket Motor Internal Ballistics Simulation Using Three-Dimensional Grain Burnback",
     "source_url": "https://www.ideals.illinois.edu/items/14484/bitstreams/51394/data.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2007,
+    "authors": "Willcox, Michael L.; Brewster, M. Quinn; Tang, Kung-Chyun; Stewart, D. Scott; Kuznetsov, Igor R.",
+    "doi": "10.2514/1.22971",
+    "citation_url": "https://www.ideals.illinois.edu/items/14484",
+    "document_type": "Journal Article",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-024",
     "category": "Internal ballistics",
     "title": "Analysis of the main phenomena affecting solid rocket motors internal ballistics",
-    "source_url": "http://amsdottorato.unibo.it/9878/1/PhD_Thesis.pdf",
+    "source_url": "https://amsdottorato.unibo.it/id/eprint/9878/1/PhD_Thesis.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2021,
+    "authors": "Mini, Stefano",
+    "doi": "10.48676/unibo/amsdottorato/9878",
+    "citation_url": "https://amsdottorato.unibo.it/9878/",
+    "document_type": "Dissertation",
+    "pdf_available_at_source": true,
+    "notes": "Institutional repository allows personal study/research copies; commercial reuse and redistribution restricted.",
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-025",
     "category": "Internal ballistics",
     "title": "Advanced Computer Science on Internal Ballistics of Solid Rocket Motors",
-    "source_url": "https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_pdf",
+    "source_url": "https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_pdf/-char/en",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2010,
+    "authors": "Shimada, Toru; Kato, Kazushige; Sekino, Nobuhiro; Tsuboi, Nobuyuki; Seike, Yoshio; Fukunaga, Mihoko; Daimon, Yu; Hasegawa, Hiroshi; Asakawa, Hiroya",
+    "doi": "10.2322/tastj.8.Pa_29",
+    "document_type": "Journal Article",
+    "citation_url": "https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_article",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-026",
     "category": "Hybrid propulsion",
     "title": "A Review of Recent Developments in Hybrid Rocket Propulsion and Its Applications",
-    "source_url": "https://www.mdpi.com/2226-4310/11/9/739/pdf?version=1725951786",
+    "source_url": "https://www.mdpi.com/2226-4310/11/9/739/pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2024,
+    "authors": "Wei, Shih-Sin; Li, Meng-Che; Lai, Alfred; Chou, Tzu-Hao; Wu, Jong-Shinn",
+    "doi": "10.3390/aerospace11090739",
+    "document_type": "Review Article",
+    "citation_url": "https://www.mdpi.com/2226-4310/11/9/739",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-027",
@@ -281,7 +379,16 @@
     "title": "Time-resolved burning of solid fuels for hybrid rocket propulsion",
     "source_url": "https://www.eucass-proceedings.eu/articles/eucass/pdf/2012/01/eucass2p405.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2011,
+    "authors": "DeLuca, L. T.; Galfetti, L.; Colombo, G.; Maggi, F.; Bandera, A.; Boiocchi, M.; Gariani, L.; Merotto, L.; Paravan, C.; Reina, A.",
+    "doi": "10.1051/eucass/201102405",
+    "document_type": "Conference Paper",
+    "citation_url": "https://www.eucass-proceedings.eu/articles/eucass/abs/2012/01/eucass2p405/eucass2p405.html",
+    "publication_date": "2012-10-01",
+    "pdf_available_at_source": true,
+    "notes": "Proceedings volume is dated 2011; online publication 2012-10-01.",
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-028",
@@ -289,7 +396,14 @@
     "title": "Approaches to Low Fuel Regression Rate in Hybrid Rocket Engines",
     "source_url": "https://downloads.hindawi.com/journals/ijae/2012/649753.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2012,
+    "authors": "Pastrone, Dario",
+    "doi": "10.1155/2012/649753",
+    "document_type": "Review Article",
+    "citation_url": "https://doi.org/10.1155/2012/649753",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_original_publisher_or_repository"
   },
   {
     "id": "RSP-029",
@@ -629,61 +743,65 @@
     "id": "RSP-057",
     "category": "Combustion instability",
     "title": "Triggering of longitudinal combustion instabilities in solid rocket motors: Nonlinear combustion response",
-    "source_url": "https://ntrs.nasa.gov/api/citations/19960023638/downloads/19960023638.pdf",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "source_url": "https://ntrs.nasa.gov/citations/19960023638",
+    "pdf_status": "not available",
+    "access_status": "NASA NTRS metadata only; no downloadable PDF listed",
     "citation_url": "https://ntrs.nasa.gov/citations/19960023638",
     "metadata_status": "verified_on_NASA_NTRS_API",
     "year": 1995,
     "authors": "Wicker, J. M.; Greene, W. D.; Kim, S. I.; Yang, V.",
     "publication_date": "1995-10-01",
     "pdf_available_at_source": false,
-    "document_type": "Conference Paper"
+    "document_type": "Conference Paper",
+    "notes": "Removed unverified constructed PDF URL: https://ntrs.nasa.gov/api/citations/19960023638/downloads/19960023638.pdf"
   },
   {
     "id": "RSP-058",
     "category": "Combustion instability",
     "title": "Modeling of vortex generated sound in solid propellant rocket motors",
-    "source_url": "https://ntrs.nasa.gov/api/citations/19810007750/downloads/19810007750.pdf",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "source_url": "https://ntrs.nasa.gov/citations/19810007750",
+    "pdf_status": "not available",
+    "access_status": "NASA NTRS metadata only; no downloadable PDF listed",
     "citation_url": "https://ntrs.nasa.gov/citations/19810007750",
     "metadata_status": "verified_on_NASA_NTRS_API",
     "year": 1980,
     "authors": "Flandro, G. A.",
     "publication_date": "1980-11-01",
     "pdf_available_at_source": false,
-    "document_type": "Conference Paper"
+    "document_type": "Conference Paper",
+    "notes": "Removed unverified constructed PDF URL: https://ntrs.nasa.gov/api/citations/19810007750/downloads/19810007750.pdf"
   },
   {
     "id": "RSP-059",
     "category": "Erosive burning",
     "title": "Evidence of erosive burning in shuttle solid rocket motor",
-    "source_url": "https://ntrs.nasa.gov/api/citations/19830026740/downloads/19830026740.pdf",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "source_url": "https://ntrs.nasa.gov/citations/19830026740",
+    "pdf_status": "not available",
+    "access_status": "NASA NTRS metadata only; no downloadable PDF listed",
     "citation_url": "https://ntrs.nasa.gov/citations/19830026740",
     "metadata_status": "verified_on_NASA_NTRS_API",
     "year": 1983,
     "authors": "Martin, C. L.",
     "publication_date": "1983-02-01",
     "pdf_available_at_source": false,
-    "document_type": "Conference Paper"
+    "document_type": "Conference Paper",
+    "notes": "Removed unverified constructed PDF URL: https://ntrs.nasa.gov/api/citations/19830026740/downloads/19830026740.pdf"
   },
   {
     "id": "RSP-060",
     "category": "Internal ballistics",
     "title": "Acceleration effects in solid propellant rocket motors",
-    "source_url": "https://ntrs.nasa.gov/api/citations/19860057986/downloads/19860057986.pdf",
-    "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "source_url": "https://ntrs.nasa.gov/citations/19860057986",
+    "pdf_status": "not available",
+    "access_status": "NASA NTRS metadata only; no downloadable PDF listed",
     "citation_url": "https://ntrs.nasa.gov/citations/19860057986",
     "metadata_status": "verified_on_NASA_NTRS_API",
     "year": 1986,
     "authors": "Langhenry, M. T.",
     "publication_date": "1986-06-01",
     "pdf_available_at_source": false,
-    "document_type": "Conference Paper"
+    "document_type": "Conference Paper",
+    "notes": "Removed unverified constructed PDF URL: https://ntrs.nasa.gov/api/citations/19860057986/downloads/19860057986.pdf"
   },
   {
     "id": "RSP-061",
