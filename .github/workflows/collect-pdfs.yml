@@ -35,6 +35,9 @@ jobs:
         if: steps.cadence.outputs.proceed == 'true'
         with:
           fetch-depth: 0
+      - name: Run metadata audit regression tests
+        if: steps.cadence.outputs.proceed == 'true'
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
       - name: Install PDF structure validator
         if: steps.cadence.outputs.proceed == 'true'
         run: python3 -m pip install 'pypdf>=5,<8'
@@ -59,7 +62,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metadata/download_results.csv metadata/papers.csv metadata/sider_imports.csv metadata/quality_report.md
+          git add metadata/download_results.csv metadata/papers.csv metadata/sider_imports.csv metadata/quality_report.md metadata/catalog_quality.json
           if git diff --cached --quiet; then
             echo "No metadata changes to commit."
             exit 0
