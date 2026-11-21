@@ -425,5 +425,60 @@
     "citation_url": "https://ntrs.nasa.gov/citations/19920011439",
     "metadata_status": "title_verified_at_source",
     "notes": "Already observed in Sider Wisebase; import status tracked separately."
+  },
+  {
+    "id": "RSP-047",
+    "category": "Nozzle thermal protection",
+    "title": "Development, modeling and testing of thermal protection systems in small, slow-burning solid rocket motors",
+    "source_url": "https://dspace.mit.edu/bitstreams/fe583b0d-eeae-4bcc-81a0-185e6a8e7c6e/download",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2018,
+    "citation_url": "https://dspace.mit.edu/entities/publication/3532ac0e-4b63-4ec7-9cc3-f550f7ff0444",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-048",
+    "category": "Nozzle thermal protection",
+    "title": "Characterization of Internal Insulation Thermal Performance",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20240009657/downloads/20240009657.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2024,
+    "citation_url": "https://ntrs.nasa.gov/citations/20240009657",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-049",
+    "category": "Nozzle thermal protection",
+    "title": "Test and Analysis of Solid Rocket Motor Nozzle Ablative Materials",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20170004465/downloads/20170004465.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2017,
+    "citation_url": "https://ntrs.nasa.gov/citations/20170004465",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-050",
+    "category": "Internal ballistics",
+    "title": "Modeling the Gas Dynamics Environment in a Subscale Solid Rocket Test Motor",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20020030027/downloads/20020030027.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2001,
+    "citation_url": "https://ntrs.nasa.gov/citations/20020030027",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-051",
+    "category": "Nozzle thermal protection",
+    "title": "Identification and Study of Validation Level Test Cases for Computational Modeling of Non-Charring Ablators",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20220014385/downloads/AW2022_Identification_and_Study_of_Validation_Level_Test_Cases.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2022,
+    "citation_url": "https://ntrs.nasa.gov/citations/20220014385",
+    "metadata_status": "title_verified_at_source"
   }
 ]
