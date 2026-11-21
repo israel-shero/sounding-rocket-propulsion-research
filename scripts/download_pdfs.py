@@ -2,13 +2,15 @@
 """Fetch public research PDFs for an ephemeral Actions artifact and validate format.
 
 No paywall bypasses, credentials, cookie copying, or file redistribution to git.
-The download_results.csv log reflects THIS RUN only, not Sider availability.
+The download_results.csv log reflects THIS RUN only, with a rotating source batch; not Sider availability.
 Requires pypdf (installed by the GitHub Actions PDF collection workflow).
 """
 import csv
+import datetime
 import hashlib
 import io
 import json
+import os
 import pathlib
 import time
 import urllib.error
@@ -55,6 +57,19 @@ def source_is_pdf_candidate(paper):
     )
 
 
+# Bound each scheduled run: a full library scan of ~190 URLs can exceed the
+# GitHub Actions timeout when remote hosts return slow errors.
+BATCH_SIZE = max(1, min(int(os.environ.get("PDF_BATCH_SIZE", "30")), 100))
+CYCLE_ANCHOR = datetime.date(2026, 11, 22)
+day_index = max(0, (datetime.datetime.now(datetime.timezone.utc).date() - CYCLE_ANCHOR).days // 2)
+eligible = [p for p in papers if source_is_pdf_candidate(p)]
+selected = set()
+if eligible:
+    start = (day_index * BATCH_SIZE) % len(eligible)
+    selected = {eligible[(start + i) % len(eligible)]["id"]
+                for i in range(min(BATCH_SIZE, len(eligible)))}
+print(f"Scheduled PDF batch: {len(selected)} of {len(eligible)} eligible sources")
+
 with (ROOT / "metadata/download_results.csv").open("w", newline="", encoding="utf-8") as f:
     columns = ["id", "status", "http_status", "bytes", "pages", "sha256", "source_url", "details"]
     writer = csv.DictWriter(f, fieldnames=columns, lineterminator="\n")
@@ -67,6 +82,8 @@ with (ROOT / "metadata/download_results.csv").open("w", newline="", encoding="ut
                 result.update(status="skipped_no_pdf", details="No public PDF listed at original source")
             elif not source_is_pdf_candidate(paper):
                 result.update(status="skipped_unverified_url", details="Link is not a verified direct-PDF endpoint")
+            elif paper["id"] not in selected:
+                result.update(status="not_checked_this_run", details="Rotating batch selection; this source was not tested in this run")
             else:
                 if destination.exists():
                     data = destination.read_bytes()
