@@ -359,12 +359,13 @@
     "id": "RSP-041",
     "category": "Solid propulsion",
     "title": "Solid Rocket Motor Technology (AGARD-CP-259)",
-    "source_url": "https://www.sto.nato.int/publications/AGARD/AGARD-CP-259/AGARD-CP-259.pdf",
+    "source_url": "https://ntrs.nasa.gov/citations/19800002041",
     "pdf_status": "not downloaded",
-    "access_status": "unverified",
+    "access_status": "bibliography only - no verified full text",
     "year": 1979,
     "citation_url": "https://ntrs.nasa.gov/citations/19800002041",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "title_verified_at_source",
+    "notes": "The previously listed NATO STO PDF URL returned 404 and Sider captured an error page. NTRS confirms the proceedings metadata but currently offers no download. Do not treat it as an imported full-text paper."
   },
   {
     "id": "RSP-042",
