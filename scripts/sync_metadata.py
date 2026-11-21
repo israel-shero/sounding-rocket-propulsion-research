@@ -18,6 +18,7 @@ import io
 import json
 from pathlib import Path
 from urllib.parse import urlparse
+from check_catalog import check_catalog
 from audit_bibliography import audit, write_report
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -73,6 +74,15 @@ def main():
     write_report(metrics, hard, review)
     if hard:
         raise ValueError("Bibliography structural audit failed: " + "; ".join(hard))
+    report = check_catalog(papers)
+    if report["errors"]:
+        raise ValueError("Catalog audit failed: " +
+                         json.dumps(report["errors"], ensure_ascii=False))
+    report_file = META / "catalog_quality.json"
+    expected_report = json.dumps(report, indent=2, ensure_ascii=False) + "\n"
+    if not report_file.exists() or report_file.read_text(encoding="utf-8") != expected_report:
+        report_file.write_text(expected_report, encoding="utf-8")
+        print("Updated metadata/catalog_quality.json")
     output_csv(META / "papers.csv", PAPER_COLS, papers)
 
     events_path = META / "sider_import_events.jsonl"
