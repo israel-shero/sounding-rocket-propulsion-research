@@ -7,6 +7,7 @@ on:
       - 'metadata/papers.json'
       - 'metadata/sider_import_events.jsonl'
       - 'scripts/sync_metadata.py'
+      - 'scripts/audit_bibliography.py'
   workflow_dispatch:
   schedule:
     - cron: '17 22 * * *'
@@ -32,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metadata/papers.csv metadata/sider_imports.csv
+          git add metadata/papers.csv metadata/sider_imports.csv metadata/quality_report.md
           if git diff --cached --quiet; then
             echo "Metadata is already synchronized."
             exit 0
