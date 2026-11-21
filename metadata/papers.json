@@ -205,7 +205,8 @@
     "citation_url": "https://doi.org/10.35940/ijitee.a8117.119119",
     "pdf_available_at_source": false,
     "notes": "DOI page is not a PDF. Bibliography-only record until open PDF is independently verified.",
-    "metadata_status": "verified_on_original_publisher_or_repository"
+    "metadata_status": "verified_on_original_publisher_or_repository",
+    "document_type": "Journal Article"
   },
   {
     "id": "RSP-015",
@@ -429,7 +430,9 @@
     "year": 2011,
     "citation_url": "https://elib.dlr.de/74326/",
     "metadata_status": "verified_on_DLR_repository_record",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Garcia, Alexandre; Servulo Cunha Yamanaka, Sidney; Nogueira Barbosa, Alexandre; Carlos Parquet Bizarria, Francisco; Jung, Wolfgang; Scheuerpflug, Frank",
+    "document_type": "Journal Article"
   },
   {
     "id": "RSP-030",
@@ -441,7 +444,9 @@
     "year": 2022,
     "citation_url": "https://elib.dlr.de/197879/",
     "metadata_status": "verified_on_DLR_repository_record",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Scheuerpflug, Frank; Weigand, Alexander; Kuhn, Markus; Kirchhartz, Rainer",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-031",
@@ -453,7 +458,10 @@
     "year": 2012,
     "citation_url": "https://elib.dlr.de/82127/",
     "metadata_status": "verified_on_DLR_repository_record",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Scheuerpflug, Frank; Kallenbach, Alexander; Cremaschi, Francesco",
+    "document_type": "Journal Article",
+    "doi": "10.2514/1.A32193"
   },
   {
     "id": "RSP-032",
@@ -465,7 +473,10 @@
     "year": 2019,
     "citation_url": "https://elib.dlr.de/132743/",
     "metadata_status": "verified_on_DLR_repository_record",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Kobald, Mario; Schmierer, Christian; Fischer, Ulrich; Tomilin, Konstantin; Petrarolo, Anna; Rehberger, Markus",
+    "document_type": "Conference Paper",
+    "doi": "10.1051/eucass/201911025"
   },
   {
     "id": "RSP-033",
@@ -477,7 +488,9 @@
     "year": 2020,
     "citation_url": "https://elib.dlr.de/140301/",
     "metadata_status": "verified_on_DLR_repository_record",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Naumann, K.; Kirchberger, Christoph; Drescher, Oliver; Hargarten, Dorian; Zurkaulen, Maximilian; Haubl, Alexander; Rest, S.; Niedermaier, H.; Ramsel, Jürgen",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-034",
@@ -595,7 +608,8 @@
     "citation_url": "https://ntrs.nasa.gov/citations/19800002041",
     "metadata_status": "title_verified_at_source",
     "notes": "Previous NATO URL returned an HTML 404 page; this NTRS citation has no linked PDF. Do not attempt download or treat the Sider error-page entry as research full text.",
-    "pdf_available_at_source": false
+    "pdf_available_at_source": false,
+    "document_type": "Conference Proceedings"
   },
   {
     "id": "RSP-042",
@@ -960,7 +974,9 @@
     "citation_url": "https://elib.dlr.de/211012/",
     "metadata_status": "verified_on_DLR_repository_record",
     "year": 2024,
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Röhr, Thomas; Scheuerpflug, Frank; Ettl, Josef; Kail, Dietmar; Mildenberger, Christian; Riehmer, Johannes; Schnepf, Christian; Kirchhartz, Rainer",
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-066",
@@ -1467,7 +1483,8 @@
     "document_type": "Conference Paper",
     "research_utility": "Intrusive probe method for alumina particle capture and characterization",
     "doi": "10.2514/6.2020-3932",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Maggi, Filippo; Carlotti, Stefania; Saile, Dominik; Gülhan, Ali; Liljedahl, Mattias; Wingborg, Niklas; Langener, Tobias; Van den Eynde, Jeroen"
   },
   {
     "id": "RSP-098",
@@ -1482,7 +1499,8 @@
     "document_type": "Journal Article",
     "research_utility": "Subscale motor test, burn-rate and plume particulate measurement methods",
     "doi": "10.1007/s12567-020-00338-0",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Saile, Dominik; Allofs, Dirk; Kühl, Viktor; Steffens, Lars; Gülhan, Ali; Beversdorff, Manfred; Förster, Wolfgang; Willert, Christian; Carlotti, Stefania; Maggi, Filippo; Liljedahl, Mattias; Wingborg, Niklas; Langener, Tobias; Van den Eynde, Jeroen"
   },
   {
     "id": "RSP-099",
@@ -1496,7 +1514,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Particle sampling and sizing experiments at nozzle exit",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Maggi, Filippo; Carlotti, Stefania; Galfetti, Luciano; Liljedahl, Mattias; Saile, Dominik; Gülhan, Ali; Langener, Tobias; Van den Eynde, Jeroen"
   },
   {
     "id": "RSP-100",
@@ -1510,7 +1529,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "DLR RCS design and feedback control for sounding rocket payloads",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Ettl, Josef; Pfänder, Johann"
   },
   {
     "id": "RSP-101",
@@ -1524,7 +1544,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Trajectory optimization and attitude control for hovering sounding rocket probe",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Hargarten, Dorian; Ettl, Josef; Naumann, Karl"
   },
   {
     "id": "RSP-102",
@@ -1539,7 +1560,8 @@
     "document_type": "Journal Article",
     "research_utility": "Survey of 14 hypersonic research missions and sounding-rocket adaptations",
     "doi": "10.1007/s12567-026-00733-z",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Scheuerpflug, Frank; Röhr, Thomas; Hargarten, Dorian; Kirchhartz, Rainer"
   },
   {
     "id": "RSP-103",
@@ -1554,7 +1576,8 @@
     "document_type": "Journal Article",
     "research_utility": "Mach 6.15 flight data and thermal-protection validation",
     "doi": "10.1016/j.ast.2024.109895",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Di Martino, Giuseppe; Peichl, Jonas Stefan; Hufgard, Fabian; Dürnhofer, Christian; Löhle, Stefan; Göser, Johannes"
   },
   {
     "id": "RSP-104",
@@ -1568,7 +1591,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Reduced finite-rate reaction mechanism in rocket plume CFD",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Ecker, Tobias; Karl, Sebastian; Hannemann, Klaus"
   },
   {
     "id": "RSP-105",
@@ -1582,7 +1606,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Project Report",
     "research_utility": "Extensive subscale test database and plume measurement report (872 pages)",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Saile, Dominik; Allofs, Dirk; Kühl, Viktor; Riehmer, Johannes; Steffens, Lars; Gülhan, Ali; Beversdorff, Manfred; Förster, Wolfgang; Willert, Christian; Carlotti, Stefania; Maggi, Filippo; Liljedahl, Mattias; Wingborg, Niklas"
   },
   {
     "id": "RSP-106",
@@ -1597,7 +1622,8 @@
     "document_type": "Journal Article",
     "research_utility": "0D thermochemical exhaust-composition reference datasets including SRMs",
     "doi": "10.1007/s12567-026-00760-w",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Callsen, Steffen; Herberhold, Moritz; Wilken, Jascha; Sippel, Martin"
   },
   {
     "id": "RSP-107",
@@ -1611,7 +1637,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Pressure-fed gel-propellant upper-stage tank design and structural analysis",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Zurkaulen, Maximilian"
   },
   {
     "id": "RSP-108",
@@ -1625,7 +1652,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Early EMAP subscale rocket motor and plume characterization",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Saile, Dominik; Kerkhoff, Dirk; Kühl, Viktor; Steffens, Lars; Gülhan, Ali; Beversdorff, Manfred; Förster, Wolfgang; Willert, Christian; Carlotti, Stefania; Maggi, Filippo; Liljedahl, Mattias; Wingborg, Niklas; Van den Eynde, Jeroen; Langener, Tobias"
   },
   {
     "id": "RSP-109",
@@ -1639,7 +1667,9 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Preprint",
     "research_utility": "Indirect acoustic-noise generation in swirling nozzle flows",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Hirschberg, Lionel; Hulshoff, Steven J.; Bake, Friedrich",
+    "doi": "10.2514/1.J059669"
   },
   {
     "id": "RSP-110",
@@ -1653,7 +1683,8 @@
     "metadata_status": "verified_on_DLR_repository_record",
     "document_type": "Conference Paper",
     "research_utility": "Sounding-rocket-carried aerodynamic return-flight experiment overview",
-    "pdf_available_at_source": true
+    "pdf_available_at_source": true,
+    "authors": "Rickmers, Peter; Kottmeier, Sebastian; Wübbels, Guido; Bauer, Waldemar"
   },
   {
     "id": "RSP-111",
