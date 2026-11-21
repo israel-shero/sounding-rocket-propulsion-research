@@ -222,5 +222,148 @@
     "source_url": "https://downloads.hindawi.com/journals/ijae/2012/649753.pdf",
     "pdf_status": "not downloaded",
     "access_status": "unverified"
+  },
+  {
+    "id": "RSP-029",
+    "category": "Sounding rockets",
+    "title": "VSB-30 sounding rocket: history of flight performance",
+    "source_url": "https://elib.dlr.de/74326/1/VSB-30_performance_history.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2011,
+    "citation_url": "https://elib.dlr.de/74326/",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-030",
+    "category": "Sounding rockets",
+    "title": "Development and Projected Performance of the Red Kite Sounding Rocket Motor",
+    "source_url": "https://elib.dlr.de/197879/1/2022_06%20Scheuerpflug,%20Kuhn%20et%20al.,%20%20Development%20and%20Performance%20of%20the%20Red%20Kite.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2022,
+    "citation_url": "https://elib.dlr.de/197879/",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-031",
+    "category": "Flight dynamics",
+    "title": "Sounding Rocket Dispersion Reduction by Second Stage Pointing Control",
+    "source_url": "https://elib.dlr.de/82127/1/Publikation_im_Journal_of_Spacecraft_and_Rockets,_Vol_49,_No.6,_Nov-Dec_2012_-_Kopie.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2012,
+    "citation_url": "https://elib.dlr.de/82127/",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-032",
+    "category": "Hybrid propulsion",
+    "title": "The HyEnD STERN Hybrid Sounding Rocket Project",
+    "source_url": "https://elib.dlr.de/132743/1/Kobald%20eucass2019_025.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2019,
+    "citation_url": "https://elib.dlr.de/132743/",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-033",
+    "category": "Sounding rockets",
+    "title": "Design of a hovering sounding rocket stage for measurements in the high atmosphere",
+    "source_url": "https://elib.dlr.de/140301/1/485_NAUMANN-DRESCHER.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2020,
+    "citation_url": "https://elib.dlr.de/140301/",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-034",
+    "category": "Erosive burning",
+    "title": "Erosive Burning Study Utilizing Ultrasonic Measurement Techniques",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20030066165/downloads/20030066165.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2003,
+    "citation_url": "https://ntrs.nasa.gov/citations/20030066165",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-035",
+    "category": "Nozzle thermal protection",
+    "title": "Fully Coupled Aero-Thermochemical-Elastic Simulations of an Eroding Graphite Nozzle",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20170005288/downloads/20170005288.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2017,
+    "citation_url": "https://ntrs.nasa.gov/citations/20170005288",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-036",
+    "category": "Nozzle thermal protection",
+    "title": "Coupled CFD-Thermal Analysis of Erosion Patterns Resulting from Nozzle Wedgeouts on the SRTMV-N2",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20140010445/downloads/20140010445.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 2014,
+    "citation_url": "https://ntrs.nasa.gov/citations/20140010445",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-037",
+    "category": "Nozzle thermal protection",
+    "title": "ASRM nozzle thermal analysis",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19940012804/downloads/19940012804.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1993,
+    "citation_url": "https://ntrs.nasa.gov/citations/19940012804",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-038",
+    "category": "Internal ballistics",
+    "title": "High performance Solid Rocket Motor (SRM) submerged nozzle/combustion cavity flowfield assessment",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19880009238/downloads/19880009238.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1987,
+    "citation_url": "https://ntrs.nasa.gov/citations/19880009238",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-039",
+    "category": "Nozzle thermal protection",
+    "title": "Flight motor set 360L001 (STS-26R). Volume 5: Nozzle component",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19900004272/downloads/19900004272.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1989,
+    "citation_url": "https://ntrs.nasa.gov/citations/19900004272",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-040",
+    "category": "Nozzle thermal protection",
+    "title": "Pocketing mechanics of SRM nozzle liner",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19860014503/downloads/19860014503.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1986,
+    "citation_url": "https://ntrs.nasa.gov/citations/19860014503",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-041",
+    "category": "Solid propulsion",
+    "title": "Solid Rocket Motor Technology (AGARD-CP-259)",
+    "source_url": "https://www.sto.nato.int/publications/AGARD/AGARD-CP-259/AGARD-CP-259.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "year": 1979,
+    "citation_url": "https://ntrs.nasa.gov/citations/19800002041",
+    "metadata_status": "title_verified_at_source"
   }
 ]
