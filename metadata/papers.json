@@ -37,7 +37,14 @@
     "title": "Solid Rocket Motor Combustion Instability Modeling in COMSOL Multiphysics",
     "source_url": "https://ntrs.nasa.gov/api/citations/20150021412/downloads/20150021412.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2015,
+    "authors": "Fischbach, S. R.",
+    "citation_url": "https://ntrs.nasa.gov/citations/20150021412",
+    "publication_date": "2015-10-07",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Abstract"
   },
   {
     "id": "RSP-006",
@@ -117,7 +124,14 @@
     "title": "NASA Sounding Rockets User Handbook",
     "source_url": "https://ntrs.nasa.gov/citations/20230006855",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 2023,
+    "authors": "Robert H Burth; Philip G Cathell; David B Edwards; Ahmed H Ghalib; John C Gsell; Heath C Hales; Herbert C Haugh; Brian R Tibbetts",
+    "citation_url": "https://ntrs.nasa.gov/citations/20230006855",
+    "publication_date": "2023-05-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Technical Publication (TP)"
   },
   {
     "id": "RSP-016",
@@ -125,7 +139,14 @@
     "title": "Sounding rockets",
     "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19650006344.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 1965,
+    "authors": "Pressly, E. C.",
+    "citation_url": "https://ntrs.nasa.gov/citations/19650006344",
+    "publication_date": "1965-01-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-017",
@@ -133,7 +154,13 @@
     "title": "Handbook for space processing sounding rocket science payloads",
     "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19750009792.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 1975,
+    "citation_url": "https://ntrs.nasa.gov/citations/19750009792",
+    "publication_date": "1975-03-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-018",
@@ -141,7 +168,14 @@
     "title": "Sounding rocket instrumentation data Aerobee 350, Flight 17.05GT-CG",
     "source_url": "https://ntrs.nasa.gov/api/citations/19710016361/downloads/19710016361.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 1971,
+    "authors": "Pincus, B. R.; Stephenson, J. S.; Thompson, T. E., Jr.",
+    "citation_url": "https://ntrs.nasa.gov/citations/19710016361",
+    "publication_date": "1971-04-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-019",
@@ -157,7 +191,14 @@
     "title": "The Tone Range/Telemetry Interferometer Tracking System for Support of Sounding Rocket Payloads",
     "source_url": "https://ntrs.nasa.gov/api/citations/19700009276/downloads/19700009276.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 1969,
+    "authors": "Hudgins, J. I.; Lease, J. R.",
+    "citation_url": "https://ntrs.nasa.gov/citations/19700009276",
+    "publication_date": "1969-01-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Other"
   },
   {
     "id": "RSP-021",
@@ -165,7 +206,14 @@
     "title": "Sounding rocket parameters versus flight reliability",
     "source_url": "https://ntrs.nasa.gov/api/citations/19690018398/downloads/19690018398.pdf",
     "pdf_status": "not downloaded",
-    "access_status": "unverified"
+    "access_status": "unverified",
+    "year": 1969,
+    "authors": "Pierman, B. C.",
+    "citation_url": "https://ntrs.nasa.gov/citations/19690018398",
+    "publication_date": "1969-03-01",
+    "pdf_available_at_source": true,
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "document_type": "Technical Memorandum (TM)"
   },
   {
     "id": "RSP-022",
@@ -490,7 +538,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/20140010456",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 2014,
+    "authors": "Fischbach, Sean",
+    "publication_date": "2014-05-19",
+    "pdf_available_at_source": true,
+    "document_type": "Abstract"
   },
   {
     "id": "RSP-053",
@@ -500,7 +553,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/20150022329",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 2015,
+    "authors": "Fischbach, Sean R.",
+    "publication_date": "2015-01-01",
+    "pdf_available_at_source": true,
+    "document_type": "Other"
   },
   {
     "id": "RSP-054",
@@ -510,7 +568,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/20120015334",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 2012,
+    "authors": "Cortopassi, A. C.; Martin, H. T.; Boyer, E.; Kuo, K. K.",
+    "publication_date": "2012-07-09",
+    "pdf_available_at_source": true,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-055",
@@ -520,7 +583,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19770023227",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1976,
+    "authors": "Twichell, S. E.; Keller, R. B., Jr.",
+    "publication_date": "1976-12-01",
+    "pdf_available_at_source": true,
+    "document_type": "Special Publication (SP)"
   },
   {
     "id": "RSP-056",
@@ -530,7 +598,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19770003431",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1976,
+    "authors": "Hackett, R. M.; Juruf, R. S.",
+    "publication_date": "1976-01-01",
+    "pdf_available_at_source": true,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-057",
@@ -540,7 +613,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19960023638",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1995,
+    "authors": "Wicker, J. M.; Greene, W. D.; Kim, S. I.; Yang, V.",
+    "publication_date": "1995-10-01",
+    "pdf_available_at_source": false,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-058",
@@ -550,7 +628,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19810007750",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1980,
+    "authors": "Flandro, G. A.",
+    "publication_date": "1980-11-01",
+    "pdf_available_at_source": false,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-059",
@@ -560,7 +643,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19830026740",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1983,
+    "authors": "Martin, C. L.",
+    "publication_date": "1983-02-01",
+    "pdf_available_at_source": false,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-060",
@@ -570,7 +658,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19860057986",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1986,
+    "authors": "Langhenry, M. T.",
+    "publication_date": "1986-06-01",
+    "pdf_available_at_source": false,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-061",
@@ -591,7 +684,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19780011256",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1977,
+    "authors": "Sforzini, R. H.; Foster, W. A., Jr.; Murph, J. E.; Adams, G. W., Jr.",
+    "publication_date": "1977-11-01",
+    "pdf_available_at_source": true,
+    "document_type": "Contractor Report (CR)"
   },
   {
     "id": "RSP-063",
@@ -601,7 +699,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/20010000017",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 2000,
+    "authors": "Steinetz, Bruce M.; Dunlap, Patrick H., Jr.",
+    "publication_date": "2000-10-01",
+    "pdf_available_at_source": true,
+    "document_type": "Conference Paper"
   },
   {
     "id": "RSP-064",
@@ -611,7 +714,12 @@
     "pdf_status": "not downloaded",
     "access_status": "unverified",
     "citation_url": "https://ntrs.nasa.gov/citations/19660014187",
-    "metadata_status": "title_verified_at_source"
+    "metadata_status": "verified_on_NASA_NTRS_API",
+    "year": 1966,
+    "authors": "Povinelli, L. A.",
+    "publication_date": "1966-04-01",
+    "pdf_available_at_source": true,
+    "document_type": "Other - NASA Technical Note (TN)"
   },
   {
     "id": "RSP-065",
