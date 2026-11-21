@@ -35,6 +35,9 @@ jobs:
         if: steps.cadence.outputs.proceed == 'true'
         with:
           fetch-depth: 0
+      - name: Install PDF structure validator
+        if: steps.cadence.outputs.proceed == 'true'
+        run: python3 -m pip install 'pypdf>=5,<8'
       - name: Retrieve publicly accessible candidate PDFs
         if: steps.cadence.outputs.proceed == 'true'
         run: python3 scripts/download_pdfs.py
