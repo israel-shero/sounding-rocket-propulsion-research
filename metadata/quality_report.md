@@ -6,15 +6,15 @@ Generated deterministically from the current bibliography. This report checks **
 |---|---:|
 | Records | 190 |
 | Publication years present | 189 |
-| Author fields present | 158 |
+| Author fields present | 159 |
 | DOIs present | 21 |
 | Citation pages present | 190 |
-| Explicit source-listed PDFs | 158 |
+| Explicit source-listed PDFs | 159 |
 | Explicit no-PDF sources | 31 |
-| PDF availability unknown | 1 |
+| PDF availability unknown | 0 |
 | PDFs verified as readable in this audit | 0 |
 | Structural errors | 0 |
-| Review flags | 2 |
+| Review flags | 1 |
 
 ## Blocking structural issues
 
@@ -22,7 +22,6 @@ None.
 
 ## Items needing further source verification
 
-- RSP-047: source PDF availability not yet verified
 - RSP-164: publication year not yet verified
 
 ## Reading status vocabulary

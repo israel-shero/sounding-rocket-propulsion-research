@@ -4,13 +4,12 @@
     "abstract_records": 10,
     "citation_only": 31,
     "http_source_links": 1,
-    "missing_authors": 32,
+    "missing_authors": 31,
     "missing_doi": 169,
-    "missing_type": 10,
+    "missing_type": 9,
     "missing_year": 1,
     "presentation_or_poster_records": 5,
-    "source_listed_pdf": 158,
-    "unconfirmed_pdf_availability": 1
+    "source_listed_pdf": 159
   },
   "errors": [],
   "warnings": [],
