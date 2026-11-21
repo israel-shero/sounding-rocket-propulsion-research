@@ -6,8 +6,8 @@ Generated deterministically from the current bibliography. This report checks **
 |---|---:|
 | Records | 190 |
 | Publication years present | 190 |
-| Author fields present | 159 |
-| DOIs present | 21 |
+| Author fields present | 179 |
+| DOIs present | 24 |
 | Citation pages present | 190 |
 | Explicit source-listed PDFs | 159 |
 | Explicit no-PDF sources | 31 |
