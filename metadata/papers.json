@@ -2546,14 +2546,15 @@
     "source_url": "https://ntrs.nasa.gov/api/citations/20210023718/downloads/AIAA_SciTech2022_TP2_NAVDQG.pdf",
     "pdf_status": "not downloaded",
     "access_status": "NASA public PDF listed; actual retrieval unverified",
-    "year": null,
-    "authors": "Matthew P Fritz; Javier A Doll; Kari C Ward; Gavin Mendeck; Ronald Sostaric; Samuel Pedrotty",
+    "year": 2022,
+    "authors": "Matthew P Fritz; Javier A Doll; Kari C Ward; Gavin Mendeck; Ronald Sostaric; Samuel Pedrotty; Behcet Acikmese; Christopher Kuhl; Stefan Bieniawski; Lloyd Strohl, III; Andrew Berning Jr. ",
     "citation_url": "https://ntrs.nasa.gov/citations/20210023718",
     "metadata_status": "verified_on_NASA_NTRS_API",
-    "document_type": "Research report / paper",
+    "document_type": "Conference Paper",
     "research_utility": "Postflight algorithm validation against suborbital guidance and navigation telemetry.",
     "pdf_available_at_source": true,
-    "notes": ""
+    "notes": "Year is based on official NASA-listed AIAA SciTech Forum meeting dates, January 3–7, 2022; NTRS does not provide a separate publicationDate for this record.",
+    "year_basis": "Conference year (NASA NTRS official meeting dates)"
   },
   {
     "id": "RSP-165",
