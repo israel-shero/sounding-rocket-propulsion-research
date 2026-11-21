@@ -481,5 +481,147 @@
     "year": 2022,
     "citation_url": "https://ntrs.nasa.gov/citations/20220014385",
     "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-052",
+    "category": "Combustion instability",
+    "title": "Combustion Stability Assessments of the Black Brant Solid Rocket Motor",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20140010456/downloads/20140010456.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/20140010456",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-053",
+    "category": "Combustion instability",
+    "title": "Mean Flow Augmented Acoustics in Rocket Systems",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20150022329/downloads/20150022329.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/20150022329",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-054",
+    "category": "Experimental methods",
+    "title": "Real-Time X-ray Radiography Diagnostics of Components in Solid Rocket Motors",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20120015334/downloads/20120015334.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/20120015334",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-055",
+    "category": "Nozzle thermal protection",
+    "title": "Solid rocket motor internal insulation",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19770023227/downloads/19770023227.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19770023227",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-056",
+    "category": "Combustion instability",
+    "title": "Three-dimensional finite element analysis of acoustic instability of solid propellant rocket motors",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19770003431/downloads/19770003431.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19770003431",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-057",
+    "category": "Combustion instability",
+    "title": "Triggering of longitudinal combustion instabilities in solid rocket motors: Nonlinear combustion response",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19960023638/downloads/19960023638.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19960023638",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-058",
+    "category": "Combustion instability",
+    "title": "Modeling of vortex generated sound in solid propellant rocket motors",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19810007750/downloads/19810007750.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19810007750",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-059",
+    "category": "Erosive burning",
+    "title": "Evidence of erosive burning in shuttle solid rocket motor",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19830026740/downloads/19830026740.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19830026740",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-060",
+    "category": "Internal ballistics",
+    "title": "Acceleration effects in solid propellant rocket motors",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19860057986/downloads/19860057986.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19860057986",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-061",
+    "category": "Internal ballistics",
+    "title": "Residual Thrust in a Solid Rocket Motor: A Model Applied to the Mars Ascent Vehicle",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20240000321/downloads/KibbeyResidThrust%20AIAA-2024_0212.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/20240000321",
+    "metadata_status": "title_verified_at_source",
+    "year": 2024
+  },
+  {
+    "id": "RSP-062",
+    "category": "Internal ballistics",
+    "title": "Solid propellant rocket motor internal ballistics performance variation analysis, phase 3",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19780011256/downloads/19780011256.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19780011256",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-063",
+    "category": "Nozzle thermal protection",
+    "title": "Development of Thermal Barriers For Solid Rocket Motor Nozzle Joints",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20010000017/downloads/20010000017.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/20010000017",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-064",
+    "category": "Combustion instability",
+    "title": "One-dimensional nonlinear model for determining combustion instability in solid propellant rocket motors",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19660014187/downloads/19660014187.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://ntrs.nasa.gov/citations/19660014187",
+    "metadata_status": "title_verified_at_source"
+  },
+  {
+    "id": "RSP-065",
+    "category": "Sounding rockets",
+    "title": "Flight Qualification of the Red Kite Solid Rocket Motor",
+    "source_url": "https://elib.dlr.de/211012/1/Flight%20Qualification%20of%20the%20Red%20Kite%20Solid%20Rocket%20Motor.pdf",
+    "pdf_status": "not downloaded",
+    "access_status": "unverified",
+    "citation_url": "https://elib.dlr.de/211012/",
+    "metadata_status": "title_verified_at_source",
+    "year": 2024
   }
 ]
