@@ -3003,5 +3003,39 @@
     "research_utility": "Droplet evaporation and finite-rate chemistry in small thrusters.",
     "pdf_available_at_source": false,
     "notes": "Public PDF was not listed or was marked DLR-internal; do not attempt restricted download."
+  },
+  {
+    "id": "RSP-191",
+    "category": "Instrumentation",
+    "title": "TEGonaut: Self-Sufficient Sensor Nodes Powered by Thermoelectric Generators - Development and In-Flight Demonstration on the MAPHEUS Sounding Rocket",
+    "source_url": "https://elib.dlr.de/229334/",
+    "pdf_status": "not available",
+    "access_status": "DLR PDF restricted to internal access; public abstract only",
+    "year": 2026,
+    "authors": "Ziolkowski, Pawel; Karlowski, Karsten; Rossmeier, Matthias; Dreißigacker, Christoph; Neumann, Christian; Voigtmann, Thomas; Müller, Eckhard",
+    "document_type": "Conference Poster",
+    "citation_url": "https://elib.dlr.de/229334/",
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": false,
+    "research_utility": "In-flight COTS thermoelectric-powered wireless acceleration telemetry demonstration on MAPHEUS-16.",
+    "notes": "DLR deposit 2026-11-19; conference held 2026-09-13 to 2026-09-18. Not refereed; full PDF only accessible within DLR."
+  },
+  {
+    "id": "RSP-192",
+    "category": "Solid propulsion",
+    "title": "Red Kite Sounding Rocket Motor - Qualification and Application Spectrum",
+    "source_url": "https://elib.dlr.de/214208/",
+    "pdf_status": "not available",
+    "access_status": "DLR published PDF restricted to internal access; publisher access not verified",
+    "year": 2025,
+    "publication_date": "2025-04-18",
+    "authors": "Scheuerpflug, Frank; Röhr, Thomas Henri; Huber, Thomas; Hargarten, Dorian Amadeus; Kirchhartz, Rainer; Kuhn, Markus; Weigand, Alexander; Berndl, Matthias; Werneth, Josef",
+    "document_type": "Journal Article",
+    "doi": "10.2514/1.A36203",
+    "citation_url": "https://arc.aiaa.org/doi/10.2514/1.A36203",
+    "metadata_status": "verified_on_DLR_repository_record",
+    "pdf_available_at_source": false,
+    "research_utility": "Full-scale qualification test and flight validation of a commercial solid sounding-rocket booster; performance and application envelope.",
+    "notes": "Peer-reviewed Journal of Spacecraft and Rockets article. DLR marks published PDF internal-only and non-open-access."
   }
 ]
