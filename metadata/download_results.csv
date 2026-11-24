@@ -1,72 +1,72 @@
 id,status,http_status,bytes,pages,sha256,source_url,details
-RSP-001,failed,200,3570664,,,https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_pdf/-char/en,"ValueError: Encrypted PDF, cannot validate"
-RSP-002,downloaded_validated,200,1043669,6,6ccd3663c30dd7fd351f9969c8ee22268d1a429dbd5ee231c412482ba23a886e,https://zenodo.org/records/5710284/files/IJASAR-2470-4415-07-201.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-003,failed,403,,,,https://www.matec-conferences.org/articles/matecconf/pdf/2018/12/matecconf_icmme2018_03001.pdf,HTTPError: HTTP Error 403: Forbidden
-RSP-004,failed,,,,,https://journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf,URLError: <urlopen error timed out>
-RSP-005,downloaded_validated,200,252752,2,eb94af2306275a2de4862815af1d2d7d2dd9aa6567eb4b148a6b28ada874c1ea,https://ntrs.nasa.gov/api/citations/20150021412/downloads/20150021412.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-001,not_checked_this_run,,,,,https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Tm_1/_pdf/-char/en,Rotating batch selection; this source was not tested in this run
+RSP-002,not_checked_this_run,,,,,https://zenodo.org/records/5710284/files/IJASAR-2470-4415-07-201.pdf,Rotating batch selection; this source was not tested in this run
+RSP-003,not_checked_this_run,,,,,https://www.matec-conferences.org/articles/matecconf/pdf/2018/12/matecconf_icmme2018_03001.pdf,Rotating batch selection; this source was not tested in this run
+RSP-004,not_checked_this_run,,,,,https://journals.ekb.eg/article_35124_d8b840079128b819cbe0c939d5ff6a63.pdf,Rotating batch selection; this source was not tested in this run
+RSP-005,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20150021412/downloads/20150021412.pdf,Rotating batch selection; this source was not tested in this run
 RSP-006,skipped_no_pdf,,,,,https://www.sciencedirect.com/science/article/pii/S0010218021003060,No public PDF listed at original source
-RSP-007,failed,,,,,https://eprints.kingston.ac.uk/id/eprint/36191/1/Volkov-K-36191-AAM.pdf,URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
-RSP-008,failed,,,,,https://www.koreascience.kr/article/JAKO201610254116263.pdf,URLError: <urlopen error timed out>
-RSP-009,downloaded_validated,200,2830339,26,0a80b2334a589816871b4ca58951adc19d76cf0d108e5bcb1b59275b81dbe1b0,https://arxiv.org/pdf/2411.19792,PDF structure and page count validated; article identity not reviewed
-RSP-010,failed,200,1959,,,https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143121/1.A33656.pdf?sequence=1,ValueError: Response does not start with a PDF header
-RSP-011,downloaded_validated,200,879522,3,5b9a4f9e65cfdaf1aee334000e5a4bd3e1ebe6a9930156599f6ae1bdab948121,https://journals.library.torontomu.ca/index.php/ictea/article/download/1197/1204/6267,PDF structure and page count validated; article identity not reviewed
+RSP-007,not_checked_this_run,,,,,https://eprints.kingston.ac.uk/id/eprint/36191/1/Volkov-K-36191-AAM.pdf,Rotating batch selection; this source was not tested in this run
+RSP-008,not_checked_this_run,,,,,https://www.koreascience.kr/article/JAKO201610254116263.pdf,Rotating batch selection; this source was not tested in this run
+RSP-009,not_checked_this_run,,,,,https://arxiv.org/pdf/2411.19792,Rotating batch selection; this source was not tested in this run
+RSP-010,not_checked_this_run,,,,,https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143121/1.A33656.pdf?sequence=1,Rotating batch selection; this source was not tested in this run
+RSP-011,not_checked_this_run,,,,,https://journals.library.torontomu.ca/index.php/ictea/article/download/1197/1204/6267,Rotating batch selection; this source was not tested in this run
 RSP-012,skipped_no_pdf,,,,,https://doi.org/10.1080/17436753.2018.1509175,No public PDF listed at original source
-RSP-013,downloaded_validated,200,1283195,5,07314a2416d5c865334a7e9a78d9b8b149ecb045eea5f4e9d01033bc44a2d5cd,https://iieta.org/sites/default/files/pdf/2019-06/36.03_38.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-013,not_checked_this_run,,,,,https://iieta.org/sites/default/files/pdf/2019-06/36.03_38.pdf,Rotating batch selection; this source was not tested in this run
 RSP-014,skipped_no_pdf,,,,,https://doi.org/10.35940/ijitee.a8117.119119,No public PDF listed at original source
-RSP-015,downloaded_validated,200,9319912,204,2420152937522d053fcb78813ba944181882f7e5314919d47e692610fbe90495,https://ntrs.nasa.gov/api/citations/20230006855/downloads/NASA%20TP%2020230006855%202023.05.08.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-016,failed,200,,,,https://ntrs.nasa.gov/api/citations/19650006344/downloads/19650006344.pdf,ValueError: Source declares file larger than the 40 MB cap
-RSP-017,downloaded_validated,200,1702843,52,8a397bafbf50d8eac11dbc49dbe738c6cfb4d1c802fb05eaf0ebcff11c6f1c3d,https://ntrs.nasa.gov/api/citations/19750009792/downloads/19750009792.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-018,downloaded_validated,200,10943511,150,21da143bdf3ed1a3953cae255faa8868e2a5e3ab376a6654129c9230359fab34,https://ntrs.nasa.gov/api/citations/19710016361/downloads/19710016361.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-019,downloaded_validated,200,7543581,16,f6f1055e7e8b590dd28601f409bab60534e61dbfcfb362b2ad27d229a2cdde4a,https://arxiv.org/pdf/1602.02333,PDF structure and page count validated; article identity not reviewed
-RSP-020,downloaded_validated,200,1720689,40,02216d0f06a9cb0e4cbb4cb744228f76a3afba546f1f6f91da19a44cddbd9a6c,https://ntrs.nasa.gov/api/citations/19700009276/downloads/19700009276.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-021,downloaded_validated,200,509752,18,9c87c650a84d3b7028607ceb44917d96df710e3b4c0289aa885301c6126993eb,https://ntrs.nasa.gov/api/citations/19690018398/downloads/19690018398.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-022,downloaded_validated,200,487090,9,6b5978828c605f2d43d65bf1dfced705fc81a00748bb9c0c771962452de1d04d,https://elib.dlr.de/87623/1/rocket_ballon_2013_shefex.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-023,failed,403,,,,https://www.ideals.illinois.edu/items/14484/bitstreams/51394/data.pdf,HTTPError: HTTP Error 403: Forbidden
-RSP-024,downloaded_validated,200,8442405,114,93d38036bba35cfdf0a602a9ba0846d6a84528558f1f7144414adff9d62def65,https://amsdottorato.unibo.it/id/eprint/9878/1/PhD_Thesis.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-025,failed,200,2593826,,,https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_pdf/-char/en,"ValueError: Encrypted PDF, cannot validate"
-RSP-026,failed,403,,,,https://www.mdpi.com/2226-4310/11/9/739/pdf,HTTPError: HTTP Error 403: Forbidden
-RSP-027,failed,403,,,,https://www.eucass-proceedings.eu/articles/eucass/pdf/2012/01/eucass2p405.pdf,HTTPError: HTTP Error 403: Forbidden
-RSP-028,failed,403,,,,https://downloads.hindawi.com/journals/ijae/2012/649753.pdf,HTTPError: HTTP Error 403: Forbidden
-RSP-029,downloaded_validated,200,2343694,6,074446e46da61c994a47835f3f6ef6f208265eb558bd41ccb9753e78c9f58c6b,https://elib.dlr.de/74326/1/VSB-30_performance_history.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-030,downloaded_validated,200,708426,7,24b1d970b7ecfc3b40aa0c6f11d234cbe50ed4f551695a91ff08a8c7737d04d5,https://elib.dlr.de/197879/1/2022_06%20Scheuerpflug%2C%20Kuhn%20et%20al.%2C%20%20Development%20and%20Performance%20of%20the%20Red%20Kite.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-031,downloaded_validated,200,2747721,4,a1f5e216a03b601badad859c646457f497ebb69b913e1e66c7685263d8967fd1,https://elib.dlr.de/82127/1/Publikation_im_Journal_of_Spacecraft_and_Rockets%2C_Vol_49%2C_No.6%2C_Nov-Dec_2012_-_Kopie.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-032,downloaded_validated,200,3442853,40,4b9a0385dd88ccae791207b45611e05cc789d16d373455bd5c8fae698fc8c315,https://elib.dlr.de/132743/1/Kobald%20eucass2019_025.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-033,downloaded_validated,200,363710,6,7f8ee9d188167c28473a41674696ab6b747356c170abaf528483e4afeff7975a,https://elib.dlr.de/140301/1/485_NAUMANN-DRESCHER.pdf,PDF structure and page count validated; article identity not reviewed
-RSP-034,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20030066165/downloads/20030066165.pdf,Rotating batch selection; this source was not tested in this run
-RSP-035,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20170005288/downloads/20170005288.pdf,Rotating batch selection; this source was not tested in this run
-RSP-036,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20140010445/downloads/20140010445.pdf,Rotating batch selection; this source was not tested in this run
-RSP-037,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19940012804/downloads/19940012804.pdf,Rotating batch selection; this source was not tested in this run
-RSP-038,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19880009238/downloads/19880009238.pdf,Rotating batch selection; this source was not tested in this run
-RSP-039,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19900004272/downloads/19900004272.pdf,Rotating batch selection; this source was not tested in this run
-RSP-040,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19860014503/downloads/19860014503.pdf,Rotating batch selection; this source was not tested in this run
+RSP-015,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20230006855/downloads/NASA%20TP%2020230006855%202023.05.08.pdf,Rotating batch selection; this source was not tested in this run
+RSP-016,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19650006344/downloads/19650006344.pdf,Rotating batch selection; this source was not tested in this run
+RSP-017,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19750009792/downloads/19750009792.pdf,Rotating batch selection; this source was not tested in this run
+RSP-018,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19710016361/downloads/19710016361.pdf,Rotating batch selection; this source was not tested in this run
+RSP-019,not_checked_this_run,,,,,https://arxiv.org/pdf/1602.02333,Rotating batch selection; this source was not tested in this run
+RSP-020,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19700009276/downloads/19700009276.pdf,Rotating batch selection; this source was not tested in this run
+RSP-021,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19690018398/downloads/19690018398.pdf,Rotating batch selection; this source was not tested in this run
+RSP-022,not_checked_this_run,,,,,https://elib.dlr.de/87623/1/rocket_ballon_2013_shefex.pdf,Rotating batch selection; this source was not tested in this run
+RSP-023,not_checked_this_run,,,,,https://www.ideals.illinois.edu/items/14484/bitstreams/51394/data.pdf,Rotating batch selection; this source was not tested in this run
+RSP-024,not_checked_this_run,,,,,https://amsdottorato.unibo.it/id/eprint/9878/1/PhD_Thesis.pdf,Rotating batch selection; this source was not tested in this run
+RSP-025,not_checked_this_run,,,,,https://www.jstage.jst.go.jp/article/tastj/8/ists27/8_ists27_Pa_29/_pdf/-char/en,Rotating batch selection; this source was not tested in this run
+RSP-026,not_checked_this_run,,,,,https://www.mdpi.com/2226-4310/11/9/739/pdf,Rotating batch selection; this source was not tested in this run
+RSP-027,not_checked_this_run,,,,,https://www.eucass-proceedings.eu/articles/eucass/pdf/2012/01/eucass2p405.pdf,Rotating batch selection; this source was not tested in this run
+RSP-028,not_checked_this_run,,,,,https://downloads.hindawi.com/journals/ijae/2012/649753.pdf,Rotating batch selection; this source was not tested in this run
+RSP-029,not_checked_this_run,,,,,https://elib.dlr.de/74326/1/VSB-30_performance_history.pdf,Rotating batch selection; this source was not tested in this run
+RSP-030,not_checked_this_run,,,,,https://elib.dlr.de/197879/1/2022_06%20Scheuerpflug%2C%20Kuhn%20et%20al.%2C%20%20Development%20and%20Performance%20of%20the%20Red%20Kite.pdf,Rotating batch selection; this source was not tested in this run
+RSP-031,not_checked_this_run,,,,,https://elib.dlr.de/82127/1/Publikation_im_Journal_of_Spacecraft_and_Rockets%2C_Vol_49%2C_No.6%2C_Nov-Dec_2012_-_Kopie.pdf,Rotating batch selection; this source was not tested in this run
+RSP-032,not_checked_this_run,,,,,https://elib.dlr.de/132743/1/Kobald%20eucass2019_025.pdf,Rotating batch selection; this source was not tested in this run
+RSP-033,not_checked_this_run,,,,,https://elib.dlr.de/140301/1/485_NAUMANN-DRESCHER.pdf,Rotating batch selection; this source was not tested in this run
+RSP-034,downloaded_validated,200,783815,12,87c7e50259c6b037a5960a8465d46b251d66c55412d46e6c6047d4e190b8df59,https://ntrs.nasa.gov/api/citations/20030066165/downloads/20030066165.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-035,downloaded_validated,200,8897677,21,1e66d8ea37d6782ece8395ed277af3ed1c86dec8f9514f6c82752b78a50fdbb3,https://ntrs.nasa.gov/api/citations/20170005288/downloads/20170005288.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-036,downloaded_validated,200,20363,1,a5be9a33ac5c0b4fcd8fa10d2a38b8e5a8f5d0d71f604e788821fea4fb18307a,https://ntrs.nasa.gov/api/citations/20140010445/downloads/20140010445.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-037,downloaded_validated,200,3737954,101,27a8c3f286092b00ee23a4b9fe29709187a9e57241ca8d070bf5ea9f6a5838e7,https://ntrs.nasa.gov/api/citations/19940012804/downloads/19940012804.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-038,downloaded_validated,200,2118541,57,b587122ac475e288580ec1c7eef5a2492ed36b5b7522fc657ded100d914907f3,https://ntrs.nasa.gov/api/citations/19880009238/downloads/19880009238.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-039,downloaded_validated,200,20019583,372,666d23617a64a2f4ee4f15ef2c15dbeb67edfa4de04eea9cc436d6729bdb36e8,https://ntrs.nasa.gov/api/citations/19900004272/downloads/19900004272.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-040,downloaded_validated,200,802366,32,9bc73b423a1e71ad194eaade3dcd5cbd0578869a32512aa9a02b4e63889e1dce,https://ntrs.nasa.gov/api/citations/19860014503/downloads/19860014503.pdf,PDF structure and page count validated; article identity not reviewed
 RSP-041,skipped_no_pdf,,,,,https://ntrs.nasa.gov/citations/19800002041,No public PDF listed at original source
-RSP-042,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19860018787/downloads/19860018787.pdf,Rotating batch selection; this source was not tested in this run
-RSP-043,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19920001907/downloads/19920001907.pdf,Rotating batch selection; this source was not tested in this run
-RSP-044,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20140012534/downloads/20140012534.pdf,Rotating batch selection; this source was not tested in this run
-RSP-045,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20030066237/downloads/20030066237.pdf,Rotating batch selection; this source was not tested in this run
-RSP-046,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19920011439/downloads/19920011439.pdf,Rotating batch selection; this source was not tested in this run
-RSP-047,not_checked_this_run,,,,,https://dspace.mit.edu/bitstreams/fe583b0d-eeae-4bcc-81a0-185e6a8e7c6e/download,Rotating batch selection; this source was not tested in this run
-RSP-048,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20240009657/downloads/20240009657.pdf,Rotating batch selection; this source was not tested in this run
-RSP-049,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20170004465/downloads/20170004465.pdf,Rotating batch selection; this source was not tested in this run
-RSP-050,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20020030027/downloads/20020030027.pdf,Rotating batch selection; this source was not tested in this run
-RSP-051,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20220014385/downloads/AW2022_Identification_and_Study_of_Validation_Level_Test_Cases.pdf,Rotating batch selection; this source was not tested in this run
-RSP-052,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20140010456/downloads/20140010456.pdf,Rotating batch selection; this source was not tested in this run
-RSP-053,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20150022329/downloads/20150022329.pdf,Rotating batch selection; this source was not tested in this run
-RSP-054,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20120015334/downloads/20120015334.pdf,Rotating batch selection; this source was not tested in this run
-RSP-055,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19770023227/downloads/19770023227.pdf,Rotating batch selection; this source was not tested in this run
-RSP-056,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19770003431/downloads/19770003431.pdf,Rotating batch selection; this source was not tested in this run
+RSP-042,downloaded_validated,200,4472003,9,ff7a49bf3ffbe730a27a4e17542fbcc02528c86ce73745c2294f2e69e399a4d9,https://ntrs.nasa.gov/api/citations/19860018787/downloads/19860018787.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-043,downloaded_validated,200,660425,14,3ad19dd1348dec3cd501398ed2bd3c653ffa2abddaec72dd5a0a4eb4e4bc2ad7,https://ntrs.nasa.gov/api/citations/19920001907/downloads/19920001907.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-044,downloaded_validated,200,382338,11,5f93d869c5e8adffbabbbd2dbb36d83f8b284dba578ee92931fc4007b886d653,https://ntrs.nasa.gov/api/citations/20140012534/downloads/20140012534.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-045,downloaded_validated,200,778625,12,418bdb74eadd1969b0b011d363c61741c92680a9561326cdd2b9129ad0f937b9,https://ntrs.nasa.gov/api/citations/20030066237/downloads/20030066237.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-046,downloaded_validated,200,2685568,68,f0c8b3ca783a1ae22d8ee1535b300515d037558a848e9e3a4f285f8f1c3d44e9,https://ntrs.nasa.gov/api/citations/19920011439/downloads/19920011439.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-047,failed,429,,,,https://dspace.mit.edu/bitstreams/fe583b0d-eeae-4bcc-81a0-185e6a8e7c6e/download,HTTPError: HTTP Error 429: Too Many Requests
+RSP-048,downloaded_validated,200,11082271,75,fe0c7511f223c5af6f431272859ee64c8cafa683916bedc266179db370d780a4,https://ntrs.nasa.gov/api/citations/20240009657/downloads/20240009657.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-049,downloaded_validated,200,97326,1,7870b59e0058a715e4e60ffec7ceb61062192d13e7b5d6880f4cbb7c6021e00e,https://ntrs.nasa.gov/api/citations/20170004465/downloads/20170004465.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-050,downloaded_validated,200,555951,10,7b18ba69f6ef3f804a4143a05f7a08cb28f4b277f5b6284fce2c91da6a8365be,https://ntrs.nasa.gov/api/citations/20020030027/downloads/20020030027.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-051,downloaded_validated,200,602511,3,74438775362e56abc8b18865f5105316e940070170b86ec6391897ad59150fa3,https://ntrs.nasa.gov/api/citations/20220014385/downloads/AW2022_Identification_and_Study_of_Validation_Level_Test_Cases.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-052,downloaded_validated,200,42200,2,f8a35f27e685ddb4963bdcd6cc6ea7b41eb361cb93bf61dde3c12b8f5688b584,https://ntrs.nasa.gov/api/citations/20140010456/downloads/20140010456.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-053,downloaded_validated,200,892208,6,249509b2a7b216115c337361fbe004e0b7189e55bb24935b93c5f263b3c4ebda,https://ntrs.nasa.gov/api/citations/20150022329/downloads/20150022329.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-054,downloaded_validated,200,70023,2,086f65ab6bedf0de201b4e04e2136f3d7dc0d7c459bfd427cdefd4c8aef4acb3,https://ntrs.nasa.gov/api/citations/20120015334/downloads/20120015334.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-055,downloaded_validated,200,2248553,122,389665aa158d29a55cb17b9b88a180d7f1ff5ea4d406e8251a77d038a7dd7b0f,https://ntrs.nasa.gov/api/citations/19770023227/downloads/19770023227.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-056,downloaded_validated,200,436716,11,ef4b4516d181a6fef4ad5dec004b9919421a1234b3b62443003728f7131693f3,https://ntrs.nasa.gov/api/citations/19770003431/downloads/19770003431.pdf,PDF structure and page count validated; article identity not reviewed
 RSP-057,skipped_no_pdf,,,,,https://ntrs.nasa.gov/citations/19960023638,No public PDF listed at original source
 RSP-058,skipped_no_pdf,,,,,https://ntrs.nasa.gov/citations/19810007750,No public PDF listed at original source
 RSP-059,skipped_no_pdf,,,,,https://ntrs.nasa.gov/citations/19830026740,No public PDF listed at original source
 RSP-060,skipped_no_pdf,,,,,https://ntrs.nasa.gov/citations/19860057986,No public PDF listed at original source
-RSP-061,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20240000321/downloads/KibbeyResidThrust%20AIAA-2024_0212.pdf,Rotating batch selection; this source was not tested in this run
-RSP-062,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19780011256/downloads/19780011256.pdf,Rotating batch selection; this source was not tested in this run
-RSP-063,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20010000017/downloads/20010000017.pdf,Rotating batch selection; this source was not tested in this run
-RSP-064,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19660014187/downloads/19660014187.pdf,Rotating batch selection; this source was not tested in this run
-RSP-065,not_checked_this_run,,,,,https://elib.dlr.de/211012/1/Flight%20Qualification%20of%20the%20Red%20Kite%20Solid%20Rocket%20Motor.pdf,Rotating batch selection; this source was not tested in this run
-RSP-066,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19890000756/downloads/19890000756.pdf,Rotating batch selection; this source was not tested in this run
-RSP-067,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20110012908/downloads/20110012908.pdf,Rotating batch selection; this source was not tested in this run
-RSP-068,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19720026082/downloads/19720026082.pdf,Rotating batch selection; this source was not tested in this run
+RSP-061,downloaded_validated,200,930607,12,8059880f763cb344053601399018c52d9e5dcf2519293910f08287e6e60ced6a,https://ntrs.nasa.gov/api/citations/20240000321/downloads/KibbeyResidThrust%20AIAA-2024_0212.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-062,downloaded_validated,200,3931505,87,e9355c444322eccbb1a2f98b213110747be911aa9f94d77957c1726fcf6a23c2,https://ntrs.nasa.gov/api/citations/19780011256/downloads/19780011256.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-063,downloaded_validated,200,927939,20,6208e2a3e37baba14ffff9a58cf126c64a7d1c3614b40f8926e1039287997c84,https://ntrs.nasa.gov/api/citations/20010000017/downloads/20010000017.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-064,downloaded_validated,200,1115025,28,2b90d8609e0492cc4cfaef347aa183c9875beecb7125a3c54f6c394abd7572dc,https://ntrs.nasa.gov/api/citations/19660014187/downloads/19660014187.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-065,downloaded_validated,200,1475650,11,317bb75cdbcc1614d88a2dfca2d5457fa7be12a6a9e71fec82d922a36da89d15,https://elib.dlr.de/211012/1/Flight%20Qualification%20of%20the%20Red%20Kite%20Solid%20Rocket%20Motor.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-066,downloaded_validated,200,5160705,179,b0325d2fe4ae3882d7a2dc1c343904856d703014f688e2b4541aa6d14f5f4f10,https://ntrs.nasa.gov/api/citations/19890000756/downloads/19890000756.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-067,downloaded_validated,200,175765,2,9111402529fee2c6b37b0751770412b335a8bfd7384a50b28882b3f584aa643e,https://ntrs.nasa.gov/api/citations/20110012908/downloads/20110012908.pdf,PDF structure and page count validated; article identity not reviewed
+RSP-068,downloaded_validated,200,6374661,45,897858deb86f417e47dbae291067b03a64b9115d9c26327c07485761ab1cce15,https://ntrs.nasa.gov/api/citations/19720026082/downloads/19720026082.pdf,PDF structure and page count validated; article identity not reviewed
 RSP-069,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20030062159/downloads/20030062159.pdf,Rotating batch selection; this source was not tested in this run
 RSP-070,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/20040085892/downloads/20040085892.pdf,Rotating batch selection; this source was not tested in this run
 RSP-071,not_checked_this_run,,,,,https://ntrs.nasa.gov/api/citations/19920006646/downloads/19920006646.pdf,Rotating batch selection; this source was not tested in this run
@@ -189,3 +189,5 @@ RSP-187,not_checked_this_run,,,,,https://elib.dlr.de/218742/1/Sotic_paper_SUPAER
 RSP-188,not_checked_this_run,,,,,https://elib.dlr.de/221475/1/MA_Bruno_Mueller_final.pdf,Rotating batch selection; this source was not tested in this run
 RSP-189,skipped_no_pdf,,,,,https://elib.dlr.de/213796/,No public PDF listed at original source
 RSP-190,skipped_no_pdf,,,,,https://elib.dlr.de/200476/,No public PDF listed at original source
+RSP-191,skipped_no_pdf,,,,,https://elib.dlr.de/229334/,No public PDF listed at original source
+RSP-192,skipped_no_pdf,,,,,https://elib.dlr.de/214208/,No public PDF listed at original source
